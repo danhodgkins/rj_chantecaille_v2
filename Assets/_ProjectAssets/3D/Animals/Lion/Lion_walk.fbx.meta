@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 3cb81f5534c586f418e8f33dc331b18c
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: _lionWalk
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _lionWalk
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 21
+      lastFrame: 155
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: claw_BL_01
+        weight: 1
+      - path: claw_BL_02
+        weight: 1
+      - path: claw_BL_03
+        weight: 1
+      - path: claw_BL_04
+        weight: 1
+      - path: claw_BR_01
+        weight: 1
+      - path: claw_BR_02
+        weight: 1
+      - path: claw_BR_03
+        weight: 1
+      - path: claw_BR_04
+        weight: 1
+      - path: claw_FL_01
+        weight: 1
+      - path: claw_FL_02
+        weight: 1
+      - path: claw_FL_03
+        weight: 1
+      - path: claw_FL_04
+        weight: 1
+      - path: claw_FL_05
+        weight: 1
+      - path: claw_FR_01
+        weight: 1
+      - path: claw_FR_02
+        weight: 1
+      - path: claw_FR_03
+        weight: 1
+      - path: claw_FR_04
+        weight: 1
+      - path: claw_FR_05
+        weight: 1
+      - path: Eye_Left
+        weight: 1
+      - path: Eye_Right
+        weight: 1
+      - path: fur_lion_MANE
+        weight: 1
+      - path: fur_lion_MANE_inner
+        weight: 1
+      - path: fur_tail_horz
+        weight: 1
+      - path: fur_tail_vert
+        weight: 1
+      - path: Lion_Rig_01
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/IndexToe1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/IndexToe1_L/IndexToe2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/IndexToe1_L/IndexToe2_L/IndexToe3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/IndexToe1_L/IndexToe2_L/IndexToe3_L/IndexToe4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/MiddleToe1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/MiddleToe1_L/MiddleToe2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/MiddleToe1_L/MiddleToe2_L/MiddleToe3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/MiddleToe1_L/MiddleToe2_L/MiddleToe3_L/MiddleToe4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/PinkyToe1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/PinkyToe1_L/PinkyToe2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/PinkyToe1_L/PinkyToe2_L/PinkyToe3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/PinkyToe1_L/PinkyToe2_L/PinkyToe3_L/PinkyToe4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/RingToe1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/RingToe1_L/RingToe2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/RingToe1_L/RingToe2_L/RingToe3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/RingToe1_L/RingToe2_L/RingToe3_L/RingToe4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_L/Knee_L/Ankle_L/Toes1_L/Toes2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/IndexToe1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/IndexToe1_R/IndexToe2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/IndexToe1_R/IndexToe2_R/IndexToe3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/IndexToe1_R/IndexToe2_R/IndexToe3_R/IndexToe4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/MiddleToe1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/MiddleToe1_R/MiddleToe2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/MiddleToe1_R/MiddleToe2_R/MiddleToe3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/MiddleToe1_R/MiddleToe2_R/MiddleToe3_R/MiddleToe4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/PinkyToe1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/PinkyToe1_R/PinkyToe2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/PinkyToe1_R/PinkyToe2_R/PinkyToe3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/PinkyToe1_R/PinkyToe2_R/PinkyToe3_R/PinkyToe4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/RingToe1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/RingToe1_R/RingToe2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/RingToe1_R/RingToe2_R/RingToe3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/RingToe1_R/RingToe2_R/RingToe3_R/RingToe4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Hip_R/Knee_R/Ankle_R/Toes1_R/Toes2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/Eye_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/Eye_L/EyeEnd_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/Eye_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/Eye_R/EyeEnd_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/HeadEnd_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/Jaw_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/Jaw_M/JawEnd_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint1_L/joint2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint1_L/joint2_L/joint3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint1_R/joint2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint1_R/joint2_R/joint3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Neck_M/Neck1_M/Neck2_M/Head1_M/joint4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/Fingers2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/IndexFinger1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/IndexFinger1_L/IndexFinger2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/MiddleFinger1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/MiddleFinger1_L/MiddleFinger2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/PinkyFinger1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/PinkyFinger1_L/PinkyFinger2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L/PinkyFinger4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/RingFinger1_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/RingFinger1_L/RingFinger2_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/RingFinger1_L/RingFinger2_L/RingFinger3_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_L/Shoulder_L/Elbow_L/Wrist_L/Fingers1_L/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger4_L
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/Fingers2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/IndexFinger1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/IndexFinger1_R/IndexFinger2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/MiddleFinger1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/MiddleFinger1_R/MiddleFinger2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/PinkyFinger1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/PinkyFinger1_R/PinkyFinger2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R/PinkyFinger4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/RingFinger1_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/RingFinger1_R/RingFinger2_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/RingFinger1_R/RingFinger2_R/RingFinger3_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/RootPart1_M/RootPart2_M/Spine1_M/Spine2_M/Spine3_M/Chest_M/Scapula_R/Shoulder_R/Elbow_R/Wrist_R/Fingers1_R/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger4_R
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Tail0_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Tail0_M/Tail1_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Tail0_M/Tail1_M/Tail2_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Tail0_M/Tail1_M/Tail2_M/Tail3_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M
+        weight: 1
+      - path: Lion_Rig_01/DeformationSystem/Root_EXP/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_M
+        weight: 1
+      - path: Lion_Rig_01/Geometry
+        weight: 1
+      - path: Lion_Rig_01/Geometry/geo_EXP
+        weight: 1
+      - path: Lion_Rig_01/Geometry/geo_EXP/Lion_body_EXP
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M/IKXRoot_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M/IKXRoot_M/IKXRootPart1_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M/IKXRoot_M/IKXRootPart1_M/IKXRootPart2_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M/IKXRoot_M/IKXRootPart1_M/IKXRootPart2_M/IKXSpine1_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M/IKXRoot_M/IKXRootPart1_M/IKXRootPart2_M/IKXSpine1_M/IKXSpine2_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M/IKXRoot_M/IKXRootPart1_M/IKXRootPart2_M/IKXSpine1_M/IKXSpine2_M/IKXSpine3_M
+        weight: 1
+      - path: Lion_Rig_01/MotionSystem/IKSystem/IKJoints/IKParentConstraintRoot_M/IKXOffsetRoot_M/IKXRoot_M/IKXRootPart1_M/IKXRootPart2_M/IKXSpine1_M/IKXSpine2_M/IKXSpine3_M/IKXChest_M
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_front_01
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_front_02
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_front_03
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_front_top
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_jaw_chin
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_jaw_front
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_left_01
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_left_02
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_left_03
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_left_04
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_left_05
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_right_01
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_right_02
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_right_03
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_right_04
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_right_05
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_top_01
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_top_02
+        weight: 1
+      - path: RJ_Lion_Mane_EXP:fur_top_03
+        weight: 1
+      - path: Teeth_Bottom
+        weight: 1
+      - path: Teeth_Top
+        weight: 1
+      - path: whisker_01
+        weight: 1
+      - path: whisker_02
+        weight: 1
+      - path: whisker_03
+        weight: 1
+      - path: whisker_04
+        weight: 1
+      - path: whisker_05
+        weight: 1
+      - path: whisker_06
+        weight: 1
+      - path: whisker_07
+        weight: 1
+      - path: whisker_08
+        weight: 1
+      - path: whisker_09
+        weight: 1
+      - path: whisker_010
+        weight: 1
+      - path: whisker_011
+        weight: 1
+      - path: whisker_012
+        weight: 1
+      - path: whisker_013
+        weight: 1
+      - path: whisker_014
+        weight: 1
+      - path: whisker_015
+        weight: 1
+      - path: whisker_016
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
