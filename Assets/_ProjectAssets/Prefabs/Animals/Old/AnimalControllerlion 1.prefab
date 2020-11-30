@@ -1,0 +1,1482 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1110193178692032053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1110193178692334571}
+  - component: {fileID: 1110193178270231600}
+  - component: {fileID: 1110193178270231601}
+  - component: {fileID: 7749657704406391020}
+  - component: {fileID: 7833462057297848620}
+  m_Layer: 8
+  m_Name: AnimalControllerlion
+  m_TagString: Animal
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1110193178692334571
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110193178692032053}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307905567}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1110193178270231600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110193178692032053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9ff2bdfccf0fed449299bbaa8ce6149, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  navoffset: 0.11
+  navMultiplier: 0.65
+  m_TurningAngleModifier: 1
+  m_SpeedModifier: 1
+  m_ScaleMultiplier: 1
+  distanceToTarget: 0
+--- !u!195 &1110193178270231601
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110193178692032053}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 2
+  m_Speed: 0
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 20
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: -0.35
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &7749657704406391020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110193178692032053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d58bf1cfa56d58940a8de9c26838305d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lidImg: {fileID: 2800000, guid: 305600ccbe7299843900b179ed074a71, type: 3}
+  makeupColor: {r: 0.47843137, g: 0.2901961, b: 0.16470589, a: 1}
+--- !u!65 &7833462057297848620
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110193178692032053}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.91, y: 1.2, z: 2.06}
+  m_Center: {x: 0, y: 0.88, z: -0.15}
+--- !u!1 &1294613234308154097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307916921}
+  m_Layer: 8
+  m_Name: LION_ R Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307916921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308154097}
+  m_LocalRotation: {x: -0.0000000012947659, y: 0.000000003493046, z: 0.34756106, w: 0.93765736}
+  m_LocalPosition: {x: -0.37007597, y: 0, z: 0.000000019073486}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1294613234307926941}
+  m_Father: {fileID: 1294613234307955195}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000016623909, y: 0.00000021787486, z: 54.141823}
+--- !u!1 &1294613234308154745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307940357}
+  m_Layer: 8
+  m_Name: LION_ R Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307940357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308154745}
+  m_LocalRotation: {x: 0.62377685, y: -0.3760884, z: 0.48002234, w: -0.48891562}
+  m_LocalPosition: {x: -0.25010332, y: -0.091952436, z: -0.10233427}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1294613234307955195}
+  m_Father: {fileID: 1294613234307902469}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -9.582469, y: 92.37051, z: -104.028854}
+--- !u!1 &1294613234308161641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307899877}
+  m_Layer: 8
+  m_Name: LION_ Tail7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307899877
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308161641}
+  m_LocalRotation: {x: 4.3069027e-14, y: 0.00000024912399, z: -0.089819655, w: 0.9959581}
+  m_LocalPosition: {x: -0.12556824, y: -0.00009834289, z: -2.7299393e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307858211}
+  m_Father: {fileID: 1294613234307942591}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.0109189, y: -2.1783414, z: -19.135147}
+--- !u!1 &1294613234308171113
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307902469}
+  m_Layer: 8
+  m_Name: LION_ Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307902469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308171113}
+  m_LocalRotation: {x: 5.684342e-14, y: 1.110223e-15, z: -6.310887e-29, w: 1}
+  m_LocalPosition: {x: -0.31030238, y: -0.00024711608, z: -6.853952e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307850787}
+  - {fileID: 1294613234307955299}
+  - {fileID: 1294613234307940357}
+  m_Father: {fileID: 1294613234307916611}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 4.465926, y: -0.23152429, z: -0.41309223}
+--- !u!1 &1294613234308171291
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307908967}
+  m_Layer: 8
+  m_Name: LION_ Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307908967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308171291}
+  m_LocalRotation: {x: 1.3583915e-13, y: -0.0000004986766, z: 0.17979397, w: 0.9837043}
+  m_LocalPosition: {x: -0.12552406, y: -0.000069427486, z: -1.9266735e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307840273}
+  m_Father: {fileID: 1294613234307908727}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.9349303, y: -1.8921318, z: 27.45592}
+--- !u!1 &1294613234308172175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307858211}
+  m_Layer: 8
+  m_Name: LION_ Tail8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307858211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308172175}
+  m_LocalRotation: {x: 2.2435516e-14, y: 0.0000001458416, z: -0.052582085, w: 0.99861664}
+  m_LocalPosition: {x: -0.12555717, y: -0.00006439209, z: -1.7898856e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1294613234307899877}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.3852757, y: -2.612104, z: -14.529787}
+--- !u!1 &1294613234308182025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307908447}
+  m_Layer: 8
+  m_Name: LION_ L Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307908447
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308182025}
+  m_LocalRotation: {x: 0.0020494456, y: 0.043603163, z: 0.037818413, w: 0.9983308}
+  m_LocalPosition: {x: -0.38831902, y: 0.000000076293944, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307931603}
+  m_Father: {fileID: 1294613234307927397}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.9917406, y: 3.9909258, z: -28.02735}
+--- !u!1 &1294613234308186659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307944149}
+  - component: {fileID: 1294613234311329337}
+  m_Layer: 8
+  m_Name: SK_Lion_LOD0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307944149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308186659}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1294613234307905567}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1294613234311329337
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308186659}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 219eb19c9d32d954daabd919bf33872c, type: 2}
+  - {fileID: 2100000, guid: 9665440a38a7cdd4e98e8a8634b8b4ca, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 4
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 22870f70af8984a459c4f92d6f8142b8, type: 3}
+  m_Bones:
+  - {fileID: 1294613234307853099}
+  - {fileID: 1294613234307842163}
+  - {fileID: 1294613234307837029}
+  - {fileID: 1294613234307940357}
+  - {fileID: 1294613234307916611}
+  - {fileID: 1294613234307956409}
+  - {fileID: 1294613234307955195}
+  - {fileID: 1294613234307836321}
+  - {fileID: 1294613234307863403}
+  - {fileID: 1294613234307926873}
+  - {fileID: 1294613234307908447}
+  - {fileID: 1294613234307955299}
+  - {fileID: 1294613234307923203}
+  - {fileID: 1294613234307931603}
+  - {fileID: 1294613234307850787}
+  - {fileID: 1294613234307949299}
+  - {fileID: 1294613234307854417}
+  - {fileID: 1294613234307928411}
+  - {fileID: 1294613234307832395}
+  - {fileID: 1294613234307916921}
+  - {fileID: 1294613234307927397}
+  - {fileID: 1294613234307951029}
+  - {fileID: 1294613234307951693}
+  - {fileID: 1294613234307902469}
+  - {fileID: 1294613234307926941}
+  - {fileID: 1294613234307895983}
+  - {fileID: 1294613234307908727}
+  - {fileID: 1294613234307908967}
+  - {fileID: 1294613234307840273}
+  - {fileID: 1294613234307841287}
+  - {fileID: 1294613234307857781}
+  - {fileID: 1294613234307853143}
+  - {fileID: 1294613234307942591}
+  - {fileID: 1294613234307899877}
+  - {fileID: 1294613234307858211}
+  - {fileID: 1294613234307838521}
+  - {fileID: 1294613234307826153}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 1294613234307951693}
+  m_AABB:
+    m_Center: {x: -0.47363573, y: 0.3596159, z: 0.0000006109476}
+    m_Extent: {x: 1.4751456, y: 0.8837522, z: 0.43313897}
+  m_DirtyAABB: 0
+--- !u!1 &1294613234308188409
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307840273}
+  m_Layer: 8
+  m_Name: LION_ Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307840273
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308188409}
+  m_LocalRotation: {x: 2.2238145e-14, y: -0.00000019246018, z: 0.06939003, w: 0.99758965}
+  m_LocalPosition: {x: -0.0932975, y: -0.00008544922, z: -2.3661414e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307841287}
+  m_Father: {fileID: 1294613234307908967}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.53519315, y: -2.3182273, z: 14.644942}
+--- !u!1 &1294613234308188449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307926941}
+  m_Layer: 8
+  m_Name: LION_ R Hand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307926941
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308188449}
+  m_LocalRotation: {x: -0.0020494426, y: -0.043603152, z: 0.0378184, w: 0.9983308}
+  m_LocalPosition: {x: -0.38831896, y: -0.000000038146972, z: -0.000000028610229}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1294613234307928411}
+  m_Father: {fileID: 1294613234307916921}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.06768942, y: -3.3407888, z: 21.753092}
+--- !u!1 &1294613234308189353
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307842163}
+  m_Layer: 8
+  m_Name: LION_ Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307842163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308189353}
+  m_LocalRotation: {x: -9.888232e-13, y: -0.0000010559721, z: 0.38072315, w: 0.92468905}
+  m_LocalPosition: {x: -0.18274589, y: 0.013138275, z: 0.000000018337014}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1294613234307853099}
+  m_Father: {fileID: 1294613234307837029}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -3.2002404, y: 4.1291847, z: 17.345446}
+--- !u!1 &1294613234308193729
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307905567}
+  - component: {fileID: 1294613234315495221}
+  m_Layer: 8
+  m_Name: SK_Lion_PBR (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307905567
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308193729}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307861827}
+  - {fileID: 1294613234307944149}
+  m_Father: {fileID: 1110193178692334571}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1294613234315495221
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308193729}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 22870f70af8984a459c4f92d6f8142b8, type: 3}
+  m_Controller: {fileID: 9100000, guid: 148d958022f5abd4ba53b4f777fceaa7, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &1294613234308196143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307927397}
+  m_Layer: 8
+  m_Name: LION_ L Forearm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307927397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308196143}
+  m_LocalRotation: {x: -0.0000000026197846, y: -9.710744e-10, z: 0.34756106, w: 0.93765736}
+  m_LocalPosition: {x: -0.37007597, y: 0, z: 0.000000009536743}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1294613234307908447}
+  m_Father: {fileID: 1294613234307956409}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000047103504, y: -0.00000059760106, z: 95.04496}
+--- !u!1 &1294613234308197659
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307955195}
+  m_Layer: 8
+  m_Name: LION_ R UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307955195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308197659}
+  m_LocalRotation: {x: 0.6202997, y: 0.35557413, z: -0.14449145, w: 0.684045}
+  m_LocalPosition: {x: -0.28307486, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 1294613234307916921}
+  m_Father: {fileID: 1294613234307940357}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 77.19765, y: 80.35553, z: 33.391083}
+--- !u!1 &1294613234308198713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307854417}
+  m_Layer: 8
+  m_Name: LION_ L Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307854417
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308198713}
+  m_LocalRotation: {x: 6.453839e-10, y: -6.430955e-10, z: 0.3179122, w: 0.9481202}
+  m_LocalPosition: {x: -0.4325986, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 1294613234307926873}
+  m_Father: {fileID: 1294613234307836321}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0000004465702, y: 0.000000103155045, z: 76.865685}
+--- !u!1 &1294613234308200271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307951693}
+  m_Layer: 8
+  m_Name: LION_ Pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307951693
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308200271}
+  m_LocalRotation: {x: -0.5, y: 0.5, z: 0.4999993, w: 0.5000007}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307951029}
+  - {fileID: 1294613234307908727}
+  m_Father: {fileID: 1294613234307826717}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -82.44312, y: -52.013134, z: 141.80663}
+--- !u!1 &1294613234308201577
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307857781}
+  m_Layer: 8
+  m_Name: LION_ Tail4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307857781
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308201577}
+  m_LocalRotation: {x: -5.386194e-15, y: 0.00000017881521, z: -0.06447044, w: 0.9979196}
+  m_LocalPosition: {x: -0.148555, y: -0.00011154175, z: -3.0966474e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307853143}
+  m_Father: {fileID: 1294613234307841287}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.14179528, y: -2.2907002, z: -0.7973172}
+--- !u!1 &1294613234308202047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307931603}
+  m_Layer: 8
+  m_Name: LION_ L Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307931603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308202047}
+  m_LocalRotation: {x: -0.00032615295, y: 0.00022837397, z: 0.5735764, w: 0.819152}
+  m_LocalPosition: {x: -0.09888957, y: -0.007935448, z: 0.0005303955}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1294613234307908447}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.04562628, y: 0.000000314702, z: 12.4272995}
+--- !u!1 &1294613234308203633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307895983}
+  m_Layer: 8
+  m_Name: LION_ R Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307895983
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308203633}
+  m_LocalRotation: {x: 0.75603896, y: -0.6544707, z: -0.007413996, w: 0.0042881253}
+  m_LocalPosition: {x: 0.22172771, y: 0.00042411804, z: -0.13065821}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1294613234307949299}
+  m_Father: {fileID: 1294613234307951029}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.6623462, y: 178.46715, z: -76.14254}
+--- !u!1 &1294613234308205071
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307853143}
+  m_Layer: 8
+  m_Name: LION_ Tail5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307853143
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308205071}
+  m_LocalRotation: {x: 7.4444574e-14, y: 0.00000017678656, z: -0.06373903, w: 0.99796665}
+  m_LocalPosition: {x: -0.14123814, y: -0.000102615355, z: -2.8463545e-10}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1294613234307942591}
+  m_Father: {fileID: 1294613234307857781}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.845838, y: -2.4202864, z: -16.406397}
+--- !u!1 &1294613234308208311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307838521}
+  m_Layer: 8
+  m_Name: LION_ R HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307838521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308208311}
+  m_LocalRotation: {x: 2.566351e-10, y: 6.5224026e-10, z: -0.44215792, w: 0.8969372}
+  m_LocalPosition: {x: -0.36192915, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 1294613234307832395}
+  m_Father: {fileID: 1294613234307949299}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.000000088767806, y: -0.00000006402975, z: -35.685795}
+--- !u!1 &1294613234308208529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307923203}
+  m_Layer: 8
+  m_Name: LION_ L Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307923203
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308208529}
+  m_LocalRotation: {x: -0.020213777, y: -0.005873542, z: 0.20444421, w: 0.9786519}
+  m_LocalPosition: {x: -0.18672761, y: 0, z: 0.000000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307863403}
+  m_Father: {fileID: 1294613234307926873}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -2.5633245, y: -2.3906074, z: 58.783474}
+--- !u!1 &1294613234308218547
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307836321}
+  m_Layer: 8
+  m_Name: LION_ L Thigh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307836321
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308218547}
+  m_LocalRotation: {x: 0.7560389, y: -0.6544707, z: 0.007412114, w: -0.0042901644}
+  m_LocalPosition: {x: 0.22172771, y: 0.0004233551, z: 0.13065821}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1294613234307854417}
+  m_Father: {fileID: 1294613234307951029}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.028415, y: 178.05588, z: -127.63138}
+--- !u!1 &1294613234308218661
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307826153}
+  m_Layer: 8
+  m_Name: LION_ R Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307826153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308218661}
+  m_LocalRotation: {x: -0.000000015454212, y: 0.000000015454376, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.07582646, y: 0.09666839, z: 0.000000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1294613234307832395}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.54744834, y: 1.1088047, z: -108.83821}
+--- !u!1 &1294613234308253083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307850787}
+  m_Layer: 8
+  m_Name: LION_ L Clavicle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307850787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308253083}
+  m_LocalRotation: {x: 0.6237782, y: -0.37608707, z: -0.48002338, w: 0.4889139}
+  m_LocalPosition: {x: -0.25010338, y: -0.09195297, z: 0.102333754}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307956409}
+  m_Father: {fileID: 1294613234307902469}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 12.280552, y: -93.05689, z: -104.14691}
+--- !u!1 &1294613234308257537
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307861827}
+  m_Layer: 8
+  m_Name: root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307861827
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308257537}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307826717}
+  m_Father: {fileID: 1294613234307905567}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!1 &1294613234308257727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307955299}
+  m_Layer: 8
+  m_Name: LION_ Neck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307955299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308257727}
+  m_LocalRotation: {x: 7.753195e-14, y: -0.00000030457306, z: 0.10981145, w: 0.99395245}
+  m_LocalPosition: {x: -0.31023464, y: -0.052582093, z: -0.000000077043076}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307837029}
+  m_Father: {fileID: 1294613234307902469}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: -0.048457757, y: 0.18870234, z: 13.221538}
+--- !u!1 &1294613234308258689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307926873}
+  m_Layer: 8
+  m_Name: LION_ L HorseLink
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307926873
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308258689}
+  m_LocalRotation: {x: -0.0000000012478641, y: -2.93392e-10, z: -0.44215795, w: 0.8969372}
+  m_LocalPosition: {x: -0.3619291, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307923203}
+  m_Father: {fileID: 1294613234307854417}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.00000049629955, y: -0.0000002126452, z: -65.90924}
+--- !u!1 &1294613234308259535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307832395}
+  m_Layer: 8
+  m_Name: LION_ R Foot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307832395
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308259535}
+  m_LocalRotation: {x: 0.020213863, y: 0.005873559, z: 0.2044442, w: 0.9786519}
+  m_LocalPosition: {x: -0.18672761, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 1294613234307826153}
+  m_Father: {fileID: 1294613234307838521}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 9.45346, y: -0.798488, z: 15.345749}
+--- !u!1 &1294613234308262433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307916611}
+  m_Layer: 8
+  m_Name: LION_ Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307916611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308262433}
+  m_LocalRotation: {x: 5.684342e-14, y: 1.110223e-15, z: -6.310887e-29, w: 1}
+  m_LocalPosition: {x: -0.31030238, y: -0.0002470398, z: -6.852497e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307902469}
+  m_Father: {fileID: 1294613234307951029}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -0.00078736385, y: -0.15775669, z: -0.6689972}
+--- !u!1 &1294613234308264207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307853099}
+  m_Layer: 8
+  m_Name: LION_ Queue de cheval 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307853099
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308264207}
+  m_LocalRotation: {x: -1.7442132e-12, y: -0.0000024961896, z: 0.89998204, w: -0.435927}
+  m_LocalPosition: {x: -0.027668914, y: 0.019418182, z: -0.0000003300642}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1294613234307842163}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.0001709541, y: 0.00015808619, z: -92.92901}
+--- !u!1 &1294613234308269411
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307837029}
+  m_Layer: 8
+  m_Name: LION_ Neck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307837029
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308269411}
+  m_LocalRotation: {x: 5.918661e-14, y: 0.00000006704181, z: -0.024171403, w: 0.9997079}
+  m_LocalPosition: {x: -0.14956284, y: -0.000118942255, z: -3.3003744e-10}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1294613234307842163}
+  m_Father: {fileID: 1294613234307955299}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.027828477, y: 0.19284552, z: 7.0308504}
+--- !u!1 &1294613234308269483
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307863403}
+  m_Layer: 8
+  m_Name: LION_ L Toe0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307863403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308269483}
+  m_LocalRotation: {x: -0.000000015454278, y: 0.00000001545439, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.07582646, y: 0.09666843, z: -0.000000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1294613234307923203}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -0.000024141953, y: 0.000024188435, z: -85.727875}
+--- !u!1 &1294613234308270581
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307908727}
+  m_Layer: 8
+  m_Name: LION_ Tail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307908727
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308270581}
+  m_LocalRotation: {x: 0.0000012676436, y: -0.0000008648907, z: 0.95689964, w: -0.29041883}
+  m_LocalPosition: {x: 0.2056697, y: -0.029900817, z: -0.00000038515398}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1294613234307908967}
+  m_Father: {fileID: 1294613234307951693}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 8.44156, y: 2.3370543, z: -133.15024}
+--- !u!1 &1294613234308274353
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307956409}
+  m_Layer: 8
+  m_Name: LION_ L UpperArm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307956409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308274353}
+  m_LocalRotation: {x: -0.6202997, y: -0.3555741, z: -0.14449145, w: 0.684045}
+  m_LocalPosition: {x: -0.28307486, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 1294613234307927397}
+  m_Father: {fileID: 1294613234307850787}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -66.35, y: -95.24129, z: 33.647625}
+--- !u!1 &1294613234308276527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307928411}
+  m_Layer: 8
+  m_Name: LION_ R Finger0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307928411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308276527}
+  m_LocalRotation: {x: 0.00032615382, y: -0.00022837523, z: 0.5735764, w: 0.819152}
+  m_LocalPosition: {x: -0.09888957, y: -0.007935448, z: -0.00053031923}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1294613234307926941}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.045625824, y: -0.000000035040443, z: 41.27498}
+--- !u!1 &1294613234308277753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307951029}
+  m_Layer: 8
+  m_Name: LION_ Spine
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307951029
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308277753}
+  m_LocalRotation: {x: -0.0000020804764, y: 0.00000069367604, z: -0.00039815903, w: 0.99999994}
+  m_LocalPosition: {x: -0.22172801, y: -0.00024711608, z: 0.000000307835}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307836321}
+  - {fileID: 1294613234307895983}
+  - {fileID: 1294613234307916611}
+  m_Father: {fileID: 1294613234307951693}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 5.9364142, y: 4.842073, z: -0.24902782}
+--- !u!1 &1294613234308278569
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307841287}
+  m_Layer: 8
+  m_Name: LION_ Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307841287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308278569}
+  m_LocalRotation: {x: 9.7400874e-14, y: -0.00000015840055, z: 0.057110105, w: 0.9983679}
+  m_LocalPosition: {x: -0.10844589, y: -0.00011749267, z: -3.2567185e-10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307857781}
+  m_Father: {fileID: 1294613234307840273}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.3771352, y: -2.0190513, z: 13.13698}
+--- !u!1 &1294613234308279585
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307949299}
+  m_Layer: 8
+  m_Name: LION_ R Calf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307949299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308279585}
+  m_LocalRotation: {x: -2.7724698e-10, y: 6.437494e-10, z: 0.31791216, w: 0.9481202}
+  m_LocalPosition: {x: -0.4325986, y: 0.000000038146972, z: 0.000000009536743}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 1294613234307838521}
+  m_Father: {fileID: 1294613234307895983}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0.00000008388945, y: -0.00000018838301, z: 24.13809}
+--- !u!1 &1294613234308280995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307826717}
+  m_Layer: 8
+  m_Name: LION_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307826717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308280995}
+  m_LocalRotation: {x: 0.50000036, y: -0.49999967, z: 0.49999973, w: 0.5000003}
+  m_LocalPosition: {x: -0, y: 0.551, z: 0.99300003}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1294613234307951693}
+  m_Father: {fileID: 1294613234307861827}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: -89.99993, z: 0}
+--- !u!1 &1294613234308281131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1294613234307942591}
+  m_Layer: 8
+  m_Name: LION_ Tail6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1294613234307942591
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294613234308281131}
+  m_LocalRotation: {x: -1.5238601e-13, y: 0.0000003064603, z: -0.11049184, w: 0.99387705}
+  m_LocalPosition: {x: -0.1298856, y: -0.00009750366, z: -2.7066563e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1294613234307899877}
+  m_Father: {fileID: 1294613234307853143}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -1.1108642, y: -2.3779583, z: -21.614143}
