@@ -1,0 +1,103 @@
+PAGE	DESCRIPTION	ID	TAGS	ENGLISH TEXT	CHINESE TEXT
+Splash	Logo	logo01		CHANTECAILLE	
+Splash	Title	logo02		WILD BEAUTY	
+Splash-Pop-Up	Title	spla01		Hi there!	
+Splash-Pop-Up	Body	spla02		Welcome to Chantecaille Wild Beauty.	
+		spla03		Bring these hummingbirds into your world and photograph them in action!	
+		spla04		Share your photos with the hashtag #ChantecailleWild to see how your post can support their future conservation.	
+Splash-Pop-Up	Button	spla05		Off we go!	
+Top-Menu	Section Headings	head01		TAKE A<br>PICTURE	
+		head02		THE AMAZON<br>NEEDS YOU	
+		head03		HUMMINGBIRD<br>COLLECTION	
+		head04		ABOUT<br>CHANTECAILLE	
+		head05		HAVE AN<br>IMPACT	
+Take-A-Picture	Opening Paragraph	tap01		Select a hummingbird below to make it come to life and view it in your world.	
+Take-A-Picture Safety	Title	taps01		SAFETY	
+Take-A-Picture Safety	Paragraph1	taps02		Please be alert at all times and stay aware of your surroundings	
+Take-A-Picture Safety	Paragraph2	taps03		Ensure that children have supervision when using Augmented Reality	
+Take-A-Picture-active	UI Icon of phone moves around	tapi05		Scan the floor to begin	
+Take-A-Picture-active	3D Chantecalle box floats in the room and follows the foor	tapi06		Tap anywhere to place the compact	
+Take-A-Picture-active	The box is placed on the ground	tapi07		Now tap the compact to open	
+Take-A-Picture-active	Animal has appeared in AR	tapi08		Keep tapping to place flowers & hummingbirds	
+Take-A-Picture-active	Animal has appeared in AR	tapi09		Tap the hummingbird icon to call the hummingbird	
+Take-A-Picture-active	Take a Picture Title	tapi10		TAKE A PICTURE	
+Pop-up-after-photo	Title	popu01	New English Text	MAKE YOUR PHOTO COUNT	
+Pop-up-after-photo	Opening Paragraph	popu02	New English Text		
+Pop-up-after-photo	Paragraph 1	popu03	New English Text	Post your pic and tag <br><b>#ChantecailleWild</b> so we can find you! (And for the chance to win giveaways)	
+Pop-up-after-photo	Button	popu04	New English Text	GOT IT!	
+Take-A-Picture-info	Title	tapI01		HOW TO USE	
+Take-A-Picture-info	Icon description	tapI02		Tap the floor to place a flower & hummingbird	
+Take-A-Picture-info	Icon description	tapI03		Tap this icon to call the hummingbird	
+Take-A-Picture-info	Icon description	tapI04		In selfie mode, tap this icon to move the hummingbird	
+Take-A-Picture-info	Icon description	tapI05		Tap on the floor to make the animal walk to that location	
+Take-A-Picture-info	Paragraph 1	tapI06		Want to know more about the Amazon?	
+Take-A-Picture-info	Paragraph 2	tapI07		Click below to find out more - 	
+Take-A-Picture-info	Button	tapI08		THE AMAZON NEEDS YOU	
+THE AMAZON NEEDS YOU	Title	vsC01		HUMMINGBIRDS ARE SYMBOLS OF A THRIVING AMAZON	
+	Partner Text	vsC02		Enchanting and wildly colorful, these tiny pollinators are concentrated in the lush forests of Colombia, Ecuador, and Brazil. Their forest home harbors a quarter of the world’s flora and fauna.<br><br>It stores massive amounts of carbon and helps stabilize global climate. <br><br>When the forest is healthy, hummingbirds flourish. And humans do too. 	
+		vsC03			
+		vsC04			
+	Scroll Instructions	vsC05		Scroll for more	
+		vsC06			
+	Text Panel 2 Sub Heading	vsC07		The Amazon houses more than:	
+	Text Panel 2  Body	vsC08		- 16,000 plant species<br>- 40,000 tree species<br>- 3,000 types of fish<br>- 430 mammals<br>- 2.5 million insects<br> 	
+	Text Panel 3 Sub Heading	vsC09		BUT THE AMAZON IS VANISHING	
+	Text Panel 3  Body	vsC10		The mightiest of the earth's rainforests is under siege. Enormous swaths of it are being burned and wiped away, exploited for oil, minerals and timber. And with it, the future of more than 1 million indigenous people - and generations of wisdom about the unique mysteries of the forest - are critically threatened.	
+	Text Panel 4 Sub Heading	vsC11		THE AMAZON NEEDS OUR HELP	
+	Text Panel 4  Body	vsC12		We believe that these ancient forests are best governed by their original guardians. That’s why Chantecaille has partnered with the <b>Amazon Conservation Team</b>,who work with indigenous and local communities to protect tropical forests and strengthen traditional culture. We are proud to support ACT’s efforts on behalf of ASOMI, an association of indigenous female elders and healers who live in the Andean Amazon of Colombia.<br><br>With our limited-edition Hummingbird Lip Chic, we’re raising $75,000 to help ASOMI buy back and protect 75 acres of their ancestral land. 	
+	Button	vsC13		Visit AmazonTeam.org for more info.	
+		vsC14		HUMMINGBIRD COLLECTION	
+		vsC15		Enchanting and wildly colorful, these tiny creatures-the smallest birds on Earth-are endemic to the Americas and concentrated in the lush forests of the Amazon. Our <b>Black-throated Mango</b>, which inhabits the jungles of South and Central America, and <b>Blue-tailed Emerald</b>, found in Western Ecuador and Colombia, are two of more than 150 species in the region.<br><br>Unique in the bird world, hummingbirds’ wings beat rapidly to help them hover in place to feed and pollinate, fly backwards, or dive at speeds of up to 60 mph. With ultra-fast metabolisms, they can consume double their weight daily in flower nectar and small insects. And hummingbirds have such sharp memories they may return to the same flower on the very same tree time and again. Their special powers have given them an indelible place in indigenous folklore as a totem of harmony and healing, and even as a go-between to the spiritual realm.<br><br>However, hummingbirds are highly sensitive to the effects of climate change, deforestation, and pesticide use. Like the proverbial canaries in the coalmine, they signal when the ecosystem is imbalanced. When a favorite species of tree vanishes, the bird may vanish too.<br><br>Together with the Amazon Conservation Team, we hope you will help us save their forest habitat. 	
+					
+					
+Have an Impact	Title	jth01	New English text	YOUR PICS HAVE POWER!	
+	Intro Paragraph	jth02	New English  text	You share it + tag it <br><b>#ChantecailleWild</b><br>We give to the animals	
+	Graph (side information)	jth03		PHOTOS OF ANIMALS TAKEN	
+	Paragraph 1 (this should go above the counter chart)	jth04	New English  text	When we hit 10K pics per species<br>We'll donate funds to that wildlife charity	
+	Paragraph 2	jth05	Text cut 		
+	Paragraph 3	jth06	Text cut 		
+	Paragraph 4	jth07	New English  text	To find out exactly what we're donating and to stay up on our next fun contest,  follow us on <b>Instagram</b>, or visit our  <b>Chantecaille Wild Beauty</b> web page.	
+	Button icon - Instagram	jth08		@Chantecaille	
+	Button icon - Website	jth09		Wild Beauty	
+	Paragraph 5	jth10		Thank you for supporting Africa's Vanishing Species!	
+About-Chantecaille	Title	abch01		OUR STORY	
+	Paragraph 1	abch02		Chantecaille has been at the forefront of luxury skincare and cosmetics built on a uniquely high concentration of natural ingredients since the company was founded by Sylvie Chantecaille in 1998.	
+	Paragraph 2	abch03		The line stands out for the extensive research and technological innovation invested in each cruelty-free, botanical-infused formula. Also integral to the brand's mission is a deep commitment to wildlife philanthropy, which has become the company's platform for activism and change.	
+	Paragraph 3	abch04		Each season Chantecaille aligns a collection of products with a conservation cause and makes charitable contributions to non-profits doing the intrepid, front-line work of protecting ecosystems and animals under siege, from oceans and forests to elephants and wild horses.	
+	Paragraph 4	abch05		Sylvie shares her passion for the wild with daughter Olivia, Creative Director; daughter Alex, Vice President of Sales; son Philippe, Director of Media Production, and husband Olivier, Chairman. <br><br><i>Sylvie Chantecaille seated at center, surrounded by (from left): Ren Grady, Olivia Chantecaille, and their daughter, Delphina; Alex, Olivier and Philippe Chantecaille</i>.	
+	Chantecaille Logo + Icons	abch06		(Chantecaille Logo)	
+	Title	abch07		WILD ABOUT NATURE	
+	Paragraph 5	abch08		We believe in the healing powers of flowers and plants, and build our formulas on pure ingredients and smart science. We are proud to give back to charities that protect wild species and spaces. 	
+Hummingbird Collection	Title	LuES01		THE HUMMINGBIRD COLLECTION	
+	Sub Heading	LuES02			
+	Opening Paragraph	LuES03		This collection takes flight with inspiration from these magical birds-and supports their survival through our partnership with the Amazon Conservation Team.<br><br>	
+	Button	LuESexploreButton		Explore the Collection	
+	SectionTitle	LuES04		<b>HUMMINGBIRD EYE QUARTETS</b>	
+	Section Paragraph	LuES05		<br>Inspired by the flickering magic of a hummingbird’s colorful wings, these collectible limited-edition compacts reveal rich eye shades that create shimmering, sophisticated looks that define and flatter.<br><br>Layering the different finishes creates a prismatic jewel-toned effect when viewed from different angles, the same way a hummingbird’s feathers glint in the sunlight. 	
+	Shade Description title	LuES06		<br><br><size=120%><b>WARM</b></size>	
+	Product Title	LuES07		- Glimmering peach<br>- Matte natural brown<br>- Iridescent gold with pink pearl<br>- Cool shimmering slate	
+	Partner	LuES08			
+	Description	LuES09		<size=120%><b>COOL</b></size>	
+	Product Title	LuES10		- Glowing pink pearl<br>- Soft taupe<br>- Sparkling magenta<br>- Shimmering deep plum	
+	Button	LuES11		Learn More	
+					
+					
+					
+					
+	Product Title	LuES13		<b>PERFECT BLUR FINISHING POWDER</b>	
+	Description	LuES14		<br>An ultrafine instant blur powder that smooths and perfects the complexion. The weightless finishing formula helps skin appear softly filtered and flawless. The long-lasting gel-powder is infused with a special combination of optically correcting pearls and blurring spheres to filter out imperfections. 	
+					
+	Product Title	LuES16		<b>LIP CHIC</b>	
+	Description	LuES17		<br>Glossy and lightweight, smoothing Lip Chic is infused with hydrating hyaluronic acid for plumper-looking lips that feel incredibly soft and nourished.	
+	Description	LuES18		This limited-edition Lip Chic collection will give back to <b>Amazon Conservation Team (ACT)</b> to support their work preserving the hummingbird’s rainforest habitat.	
+	Shades	LuES19		<br><b>Lupine:</b> Soft cool pink<br><b>Coral Bell:</b> Coral pink<br><b>Passion Flower:</b> Sheer bright orange<br><b>Honeysuckle:</b> Dusty rose	
+	Partner	LuES20		With this limited-edition Lip Chic we’re raising $75,000 to help the ASOMI indigenous women’s association buy back 75 acres of their Colombian Amazon home. Chantecaille is proud to support the <b>Amazon Conservation Team</b> in its efforts to help them protect their ancestral land.<br> 	
+	Description	LuES21			
+		LuES22			
+		LuES23			
+		LuES24		Loading...	
+					
+	Opening Paragraph	perm01		We need access to a few permissions before we can record footage	
+	Button	perm02		Request Microphone	
+	Button	perm03		Request Storage	
+	Button	perm04		Request Storage Read	

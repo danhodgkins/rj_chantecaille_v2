@@ -1,0 +1,160 @@
+PAGE	DESCRIPTION	ID	TAGS	ENGLISH TEXT	CHINESE TEXT
+Splash	Logo	logo01		CHANTECAILLE	CHANTECAILLE
+Splash	Title	logo02		WILD BEAUTY	WILD BEAUTY
+Splash-Pop-Up	Title	spla01		Hi there!	您好！
+Splash-Pop-Up	Body	spla02		Welcome to Chantecaille Wild Beauty.	歡迎使用香緹卡關愛大自然APP
+		spla03		Bring six of Africa’s most endangered species into your world and photograph them in action!	隨時隨地與六款非洲瀕危動物合照
+		spla04		Share your photos with the hashtag #ChantecailleWild and see how your post can help support their future conservation.	歡迎大家於社交平台分享照片， 標籤 #ChantecailleWild 支持保育團體。
+Splash-Pop-Up	Button	spla05		Off we go!	立即開始
+Top-Menu	Section Headings	head01		TAKE A<br>PICTURE	<size=44>拍照</size>
+		head02		VANISHING<br>SPECIES	<size=44>瀕危<br>動物</size>
+		head03		LUMINESCENT<br>EYE SHADES	<size=44>閃爍光采<br>眼影</size>
+		head04		ABOUT<br>CHANTECAILLE	<size=44>關於<br>香緹卡</size>
+		head05		HAVE AN<br>IMPACT	<size=44>凝聚保育<br>力量</size>
+Take-A-Picture	Opening Paragraph	tap01		Select an animal below to make them come to life and view them in your world.	請選擇以下一款動物， 即時呈現於您的真實世界。
+Take-A-Picture Safety	Title	taps01		SAFETY	注意安全
+Take-A-Picture Safety	Paragraph1	taps02		Please be alert at all times and stay aware of your surroundings	請留意周圍環境
+Take-A-Picture Safety	Paragraph2	taps03		Ensure that children have supervision when using Augmented Reality	適當指導小童如何使用此擴增實境APP
+Take-A-Picture-active	UI Icon of phone moves around	tapi05		Scan the floor to begin	掃描地面以開始體驗
+Take-A-Picture-active	3D Chantecalle box floats in the room and follows the foor	tapi06		Tap anywhere to place the compact	按螢幕的任何位置<br>放置眼影盒
+Take-A-Picture-active	The box is placed on the ground	tapi07		Now tap the compact to open	按眼影盒面以開啟
+Take-A-Picture-active	Animal has appeared in AR	tapi08		Tap the floor to make the animal walk there	按地面讓動物步行
+Take-A-Picture-active	Animal has appeared in AR	tapi09		Use two fingers to pinch the screen and resize the animal	以兩指控制螢幕以調較<br>動物尺寸
+Take-A-Picture-active	Take a Picture Title	tapi10		TAKE A PICTURE	拍照
+Pop-up-after-photo	Title	popu01	New English Text	MAKE YOUR PHOTO COUNT	請即分享您的照片
+Pop-up-after-photo	Opening Paragraph	popu02	New English Text	Each photo = additional $ <br>to help save endangered species 	分享照片 = 支持保護瀕危動物
+Pop-up-after-photo	Paragraph 1	popu03	New English Text	Post your pic and tag <br>#ChantecailleWild 	歡迎大家於社交平台分享照片， 加入標籤 #ChantecailleWild 
+Pop-up-after-photo	Button	popu04	New English Text	GOT IT!	確定
+Take-A-Picture-info	Title	tapI01		HOW TO USE	如何使用?
+Take-A-Picture-info	Icon description	tapI02		Scale the animal with 2 fingers	以兩指控制及調較動物尺寸
+Take-A-Picture-info	Icon description	tapI03		Place the animal by dragging it to where you want it	因應您的喜好位置放置動物
+Take-A-Picture-info	Icon description	tapI04		Turn the animal by rotating on the animal with 2 fingers	以兩指控制及旋轉， 改變動物站立的方向。
+Take-A-Picture-info	Icon description	tapI05		Tap on the floor to make the animal walk to that location	按地面的特定位置， 改變動物步行的方向。
+Take-A-Picture-info	Paragraph 1	tapI06		Want to know more about this animal?	想了解更多此動物?
+Take-A-Picture-info	Paragraph 2	tapI07		These unique and beautiful creatures are vanishing in the wild - but they are being helped by local conservation organizations in their native habitats. Learn more by clicking below.	這些美麗獨特的動物現正瀕臨絕種， 各保育團體致力保護牠們的自然棲息地。 請按下列了解更多。
+Take-A-Picture-info	Button	tapI08		ANIMAL INFO	動物資訊
+Vanishing-Species-Cheetah	Title	vsC01		CHEETAH	獵豹
+	Partner Text	vsC02		OUR PARTNER:	合作伙伴：
+	Partner Name	vsC03		CHEETAH CONSERVATION FUND	CHEETAH CONSERVATION FUND<br>(獵豹保護基金會)
+	Fact	vsC04		90% of all cheetahs, the world's fastest land animal, have vanished in the last century. 	獵豹是世界上於陸地奔跑速度最快的<br>動物， 地球上90% 的<br>獵豹已於上世紀消失。
+	Scroll Instructions	vsC05		SCROLL FOR MORE	往下瀏覽更多
+	Photo by name	vsC06		Photo: Mark Drury	鳴謝相片來源: Mark Drury
+	Text Panel 2 Sub Heading	vsC07		COOL TO KNOW 	冷知識
+	Text Panel 2  Body	vsC08		The cheetah is the only big cat that doesn't roar, but purrs and even barks. Cheetahs have amazing vision, able to spot prey a mile away. 	獵豹是唯一不會咆哮的貓科動物， 但會呼嚕甚至吠叫。 牠們有驚人的視力， 可發現遠逾一英里外的獵物。 
+	Text Panel 3 Sub Heading	vsC09		WHY THEY'RE VANISHING	瀕臨絕種的原因
+	Text Panel 3  Body	vsC10		Human population growth has led to dwindling natural habitat, bringing cheetahs into closer range with local communities and livestock farmers looking to defend their animals from attack. Baby cheetahs are also stolen and traded internationally as pets.	人口增長導致自然棲息地逐漸減少， 令獵豹更接近民居， 畜牧農夫切法保護牲畜免受傷害； 幼年獵豹亦被捕獵及販賣各地作寵物飼養。 
+	Text Panel 4 Sub Heading	vsC11		WHAT'S BEING DONE ABOUT IT	保育工作
+	Text Panel 4  Body	vsC12		From their base in Namibia, the Cheetah Conservation Fund is helping cheetahs win their race for survival by educating farmers and providing them with trained guarding dogs to keep their sheep and goats safe, so humans and animals can thrive together. They also rescue and rehabilitate cheetahs confiscated from illegal traffickers.	位於納米比亞的Cheetah Conservation Fund (獵豹保護基金會) 致力拯救及保育獵豹， 教育農夫以畜牧守護犬管理山羊和綿羊， 令人類和獵豹可和諧共存。
+	Button	vsC13		Visit cheetah.org	瀏覽cheetah.org
+Vanishing-Species-Elephant	Title	vsE01		ELEPHANT	大象
+	Partner Text	vsE02		OUR PARTNER:	合作伙伴：
+	Partner Name	vsE03		SPACE FOR GIANTS	SPACE FOR GIANTS (巨獸空間)
+	Fact	vsE04		The African elephant population has diminished by two-thirds in just 40 years.	世界上的大象於短短近40年間，<br> 以大幅減少三份之二的數量。
+	Scroll Instructions	vsE05		SCROLL FOR MORE	往下瀏覽更多
+	Photo by name	vsE06		Photo: Mark Drury	鳴謝相片來源: Mark Drury
+	Text Panel 2 Sub Heading	vsE07		COOL TO KNOW 	冷知識
+	Text Panel 2  Body	vsE08		Elephants, the earth's largest land mammal, can live to 70-plus years and have amazing memories. Living in herds, they form deep family bonds and are also highly sensitive, expressing grief and compassion. 	大象是世界上於陸地棲息的最大哺乳類動物， 其壽命可長達70載。 牠們喜愛群體生活， 著重群體的親密互動。 大象更是十分善解人意的動物， 善於表達哀傷或同情的情感。
+	Text Panel 3 Sub Heading	vsE09		WHY THEY'RE VANISHING	瀕臨絕種的原因
+	Text Panel 3  Body	vsE10		Shrinking wild landscapes bring elephants into contact with humans, who may retaliate when their crops are eaten or trampled. Meanwhile, poachers kill roughly 15,000 elephants a year for their ivory tusks.	自然棲息地逐漸減少， 令大象更接近民居， 往往牠們會進食或破壞農作物而受襲； 偷獵者為販賣象牙， 每年逾15,000頭大象被獵殺。
+	Text Panel 4 Sub Heading	vsE11		WHAT'S BEING DONE ABOUT IT	保育工作
+	Text Panel 4  Body	vsE12		Space for Giants protects elephants in their habitat and the communities that surround them by creating safe corridors for them to roam. They invest in front-line security to prevent poaching, while stopping elephants from raiding farmers' crops by building electric "smart fences," from Kenya to Botswana.	Space for Giants (巨獸空間) 致力保護<br>大象的棲息地及其遷徙路徑， 更於肯尼亞至博茨瓦納建立「智能圍欄」， 防止大象破壞人類的農作物。 透過訓練前線守護、加強制裁非法野生動物交易以保護大象。
+	Button	vsE13		Visit spaceforgiants.org	瀏覽 spaceforgiants.org
+Vanishing-Species-Giraffe	Title	vsG01		GIRAFFE	長頸鹿
+	Partner Text	vsG02		OUR PARTNER:	<br>合作伙伴：
+	Partner Name	vsG03		GIRAFFE CONSERVATION<br>FOUNDATION	GIRAFFE CONSERVATION<br>FOUNDATION<br> (長頸鹿保育基金會)
+	Fact	vsG04		The African giraffe population has declined by 30% in 30 years; the world's tallest mammal is now facing a "silent extinction."	長頸鹿是世界上最高的哺乳類動物， 於近<br>30 年間數量減少30%， 正在面臨絕種的邊緣。
+	Scroll Instructions	vsG05		SCROLL FOR MORE	往下瀏覽更多
+	Photo by name	vsG06		Photo: Mark Drury	鳴謝相片來源: Mark Drury
+	Text Panel 2 Sub Heading	vsG07		COOL TO KNOW 	冷知識
+	Text Panel 2  Body	vsG08		Every giraffe looks different: Just like human fingerprints, no two giraffes have the same coat pattern. And it was only recently discovered that there are four sub-species of giraffe, not just one. 	每頭長頸鹿均擁有獨一無二的毛色及花紋， 彷如人類的指紋一樣。 最近更發現長頸鹿有多達四種分類，而非單一種類。
+	Text Panel 3 Sub Heading	vsG09		WHY THEY'RE VANISHING	瀕臨絕種的原因
+	Text Panel 3  Body	vsG10		The biggest threat is habitat loss - more people means less space for giraffe to live, eat and roam in. Giraffes are also subject to poaching for bush meat and other traditional uses.	人口增長而自然棲息地逐漸減少， 令長頸鹿擁有更少空間棲息、進食及行走； 牠們亦遭捕獵為食物或其他傳統用途。
+	Text Panel 4 Sub Heading	vsG11		WHAT'S BEING DONE ABOUT IT	保育工作
+	Text Panel 4  Body	vsG12		Based in Namibia, the Giraffe Conservation Foundation works with partners in 15 African countries to save giraffes using strategies like community "giraffe guards" programs, innovative tracking technology to monitor movement, and translocating giraffe back to their natural ranges.	Giraffe Conservation Foundation(長頸鹿保育基金會) 致力保護長頸鹿的棲息地，去年與15個非洲國家合作， 以遷移、訓練「長頸鹿守護者」和最新的追蹤技術等方法實行「保衛長頸鹿」 計劃，為求回復牠們的自然棲息地。 
+	Button	vsG13		Visit giraffeconservation.org	瀏覽 giraffeconservation.org
+Vanishing-Species-Rhino	Title	vsR01		RHINOCEROS	犀牛
+	Partner Text	vsR02		OUR PARTNER:	合作伙伴：
+	Partner Name	vsR03		SHELDRICK WILDLIFE TRUST	SHELDRICK WILDLIFE TRUST<br> (大衛謝德里克野生動物信託機構)
+	Fact	vsR04		Two native species of rhino - white and black - once roamed Africa's savannahs, but the poaching crisis that swept the continent from 2008 to 2015 has meant a loss of nearly 8,900 rhinos in the last decade. 	<br>犀牛主要分為黑白兩種類別， 自遷往非洲的稀樹大草原， 捕獵活動日趨嚴峻， 由2008至2015年間多達8,900頭犀牛死亡。
+	Scroll Instructions	vsR05		SCROLL FOR MORE	往下瀏覽更多
+	Photo by name	vsR06		Photo: Martin Buzora	鳴謝相片來源: Martin Buzora
+	Text Panel 2 Sub Heading	vsR07		COOL TO KNOW 	冷知識
+	Text Panel 2  Body	vsR08		A group of rhinos is called a "crash." Surprisingly, these one- to two-ton creatures can reach speeds of up to 30 miles per hour.	犀牛族群被視作「破壞者」， 牠們雖然體積龐大達一至兩噸重， 然而行走速度可<br>高達每小時30英里。
+	Text Panel 3 Sub Heading	vsR09		WHY THEY'RE VANISHING	瀕臨絕種的原因
+	Text Panel 3  Body	vsR10		Rhinos are under siege for their horns, which are made of keratin, falsely prized for its medicinal value. In Africa, Black rhinos are critically endangered - their numbers have plunged 97% since 1960 - while improved conservation efforts have brought the larger white rhino back from the brink, with over 20,000 southern white rhinos surviving. 	人類誤解犀牛角具藥用價值， 肆意捕獵及販賣犀牛。 自1960年，黑犀牛的數量大幅減少97%。 幸然改善的天然保育工作令白犀牛回復生態， 逾20,000頭南部白犀牛終被拯救。
+	Text Panel 4 Sub Heading	vsR11		WHAT'S BEING DONE ABOUT IT	保育工作
+	Text Panel 4  Body	vsR12		Renowned for their work with rehabilitating orphaned elephants, Nairobi-based Sheldrick Wildlife Trust also leads efforts in rhino conservation. Recently they expanded the Meru National Park Rhino Sanctuary in Kenya to create more space for rhinos and safe passage for other large species.	Sheldrick Wildlife Trust 一向致力保育大象孤雛， 最近於肯尼亞擴建了梅魯國家公園犀牛保護區， 為犀牛及其他動物創建更多及安全的活動空間。 
+	Button	vsR13		Visit sheldrickwildlifetrust.org	瀏覽 sheldrickwildlifetrust.org
+Vanishing-Species-Lion	Title	vsL01		LION	獅子
+	Partner Text	vsL02		OUR PARTNER:	合作伙伴：
+	Partner Name	vsL03		LION GUARDIANS	LION GUARDIANS (獅子守護者組織)
+	Fact	vsL04		An estimated 50% of lions have disappeared from the African landscape over the past 50 years.	獅子在非洲草原急速消失， 過去50 年的數量估計驟減50%。
+	Scroll Instructions	vsL05		SCROLL FOR MORE	往下瀏覽更多
+	Photo by name	vsL06		Photo: Oliver Nicklin	鳴謝相片來源: <br>Oliver Nicklin
+	Text Panel 2 Sub Heading	vsL07		COOL TO KNOW 	冷知識
+	Text Panel 2  Body	vsL08		Lions are the only cats that live in family groups, or prides, of up to three males and a dozen females. While female lions are the primary hunters, males are fierce caretakers of the pride's territory and their cubs. 	獅子是唯一群體生活貓科動物， 常見三隻雄獅與數隻雌獅共同生活。 雌獅主要負責捕獵， 而雄獅則主力保衛家園及幼獅。 
+	Text Panel 3 Sub Heading	vsL09		WHY THEY'RE VANISHING	瀕臨絕種的原因
+	Text Panel 3  Body	vsL10		African lions are threatened by loss and fragmentation of habitat. This brings hungry lions into contact with humans, especially ranchers, who may kill them to protect their livestock from attack. They are also lost to trophy hunters or as a result of traditional bravery rituals.	棲息地逐漸減少及分散嚴重影響非洲獅子的生態， 獅子往往因接近人類及牧人而遭獵殺， 以保護牧人的家畜免受傷害； 更有獵人將獵獅視為勇敢的傳統儀式。
+	Text Panel 4 Sub Heading	vsL11		WHAT'S BEING DONE ABOUT IT	保育工作
+	Text Panel 4  Body	vsL12		Kenya-based Lion Guardians transforms Maasai warriors who once killed lions into lion protectors, using their traditional skills and new technologies like GPS to monitor lions' movements and protect communities. This empowers local people with both a sense of kinship with lions and the means to participate in their conservation.	Lion Guardians (獅子守護者組織) 透過對獅子的傳統知識及新科技， 如衛星定位系統，追蹤當地獅群數量，同時保護他們的部落； 成功將馬賽人由獵獅者兌變成獅子的保護者。
+	Button	vsL13		Visit lionguardians.org	瀏覽 lionguardians.org
+Vanishing-Species-Pangolin	Title	vsP01		PANGOLIN	穿山甲
+	Partner Text	vsP02		OUR PARTNER:	<br><br>合作伙伴：
+	Partner Name	vsP03		TIKKI HYWOOD<br>FOUNDATION	TIKKI HYWOOD<br>FOUNDATION<br>(狄基海伍德<br>信託基金會)
+	Fact	vsP04		An enigmatic animal native to Africa and Asia, the pangolin is covered in scales made of keratin (like human fingernails), falsely believed by some cultures to be medicinal. This has led to the pangolin becoming the most trafficked mammal on the planet.	神秘的穿山甲源居於非洲及亞洲， 其<br>鱗片含豐富蛋白質(如人類的指甲)  而被<br>誤認為具有藥用價值； 故此受人類覬覦， 成為地球上被捕獵最多的哺乳類動物之一。
+	Scroll Instructions	vsP05		SCROLL FOR MORE	往下瀏覽更多
+	Photo by name	vsP06		Photo: Adrian Steirn	鳴謝相片來源: <br>Adrian Steirn
+	Text Panel 2 Sub Heading	vsP07		COOL TO KNOW 	冷知識
+	Text Panel 2  Body	vsP08		The pangolin has lived on Earth for some 80 million years. It has an extremely long and sticky tongue - all the better for eating ants and termites. 	穿山甲於地球上存活逾8,000萬年的遠古動物， 擁有超長及黏糊的舌頭， 有利於進食螞蟻及白蟻。
+	Text Panel 3 Sub Heading	vsP09		WHY THEY'RE VANISHING	瀕臨絕種的原因
+	Text Panel 3  Body	vsP10		Although their body armor protects them from most wild predators, shy and solitary pangolins are vulnerable to human poaching: They roll into a ball when threatened, making capture easy. More than 1 million have been poached in the last decade for their scales. 	羞澀而孤單的穿山甲雖披著混身鱗片， 卻是地球上被捕獵最多的哺乳類動物之一。 牠們受驚時會將身體捲曲成球狀， 反之更容易被獵； 上世紀已逾100萬穿山甲被捕獵。
+	Text Panel 4 Sub Heading	vsP11		WHAT'S BEING DONE ABOUT IT	保育工作
+	Text Panel 4  Body	vsP12		Based in Zimbabwe, the Tikki Hywood Foundation has spent more than two decades rehabilitating pangolins rescued from the illegal wildlife trade and returning them to the wild. They also work to change legislation to offer greater protections for wildlife.	位於津巴布韋的Tikki Hywood Foundation， 過去逾兩個世紀均致力拯救及保護穿山甲， 及截擊非洲境內的非法動物販賣活動。 
+	Button	vsP13		Visit tikkihywoodtrust.org	瀏覽 tikkihywoodtrust.org
+Have an Impact	Title	jth01	New English text	YOUR PICS HAVE POWER!	您的照片極具影響力！
+	Intro Paragraph	jth02	New English  text	You share it + tag it <b>#ChantecailleWild</b><br>We donate to save wild animals.	請於社交平台分享照片， 加入標籤 #ChantecailleWild， 我們將捐助保育團體支持保護瀕危動物。
+	Graph (side information)	jth03		PHOTOS OF ANIMALS TAKEN	累積的動物照片
+	Paragraph 1 (this should go above the counter chart)	jth04	New English  text	We gave $10,000 for each 10,000 photos.<br><b>Help us hit 20,000 per species to unlock $5,000 more for each charity!<b>	當每種瀕危動物累積照片逾10,000， 我們將捐助支持該保育團體。
+	Paragraph 2	jth05	Text cut 		
+	Paragraph 3	jth06	Text cut 		
+	Paragraph 4	jth07	New English  text	To learn about the impact of our donations so far, follow us on <b>Instagram</b> or visit our <b>Wild Beauty</b> web page.	想了解最新的捐款情況及活動詳情， 請瀏覽Chantecaille Instagram 或  Chantecaille Wild Beauty 網頁。
+	Button icon - Instagram	jth08		@Chantecaille	@Chantecaille
+	Button icon - Website	jth09		Wild Beauty	Wild Beauty
+	Paragraph 5	jth10		Thank you for supporting Africa's Vanishing Species!	感謝支持保育非洲瀕臨動物！
+About-Chantecaille	Title	abch01		OUR STORY	品牌故事
+	Paragraph 1	abch02		Chantecaille has been at the forefront of luxury skincare and cosmetics built on a uniquely high concentration of natural ingredients since the company was founded by Sylvie Chantecaille in 1998.	Chantecaille 由Sylvie Chantecaille 於1998年創立品牌， 一直以高濃度天然草本精華的奢華超卓護膚及彩妝見稱。
+	Paragraph 2	abch03		The line stands out for the extensive research and technological innovation invested in each cruelty-free, botanical-infused formula. Also integral to the brand's mission is a deep commitment to wildlife philanthropy, which has become the company's platform for activism and change.	透過花妍的天然療效，配以嶄新科研及拒絕動物測試， 成就了品牌的核心護膚理念。 Chantecaille 更一直致力宣揚關注環境生態及瀕臨絕種動物， 與多個保育團體合作，將保育的品牌理念宣揚大眾。
+	Paragraph 3	abch04		Each season Chantecaille aligns a collection of products with a conservation cause and makes charitable contributions to non-profits doing the intrepid, front-line work of protecting ecosystems and animals under siege, from oceans and forests to elephants and wild horses.	Chantecaille 每季均推出保育彩妝系列， 以不同的環境生態及瀕臨絕種動物為議題， (例：海洋、森林、大象、野馬等)， 將部分收益支持保育團體的工作。
+	Paragraph 4	abch05		Sylvie shares her passion for the wild with daughter Olivia, Creative Director; daughter Alex, Vice President of Sales; son Philippe, Director of Media Production, and husband Olivier, Chairman. <br><br><i>Sylvie Chantecaille seated at center, surrounded by (from left): Ren Grady, Olivia Chantecaille, and their daughter, Delphina; Alex, Olivier and Philippe Chantecaille</i>.	Sylvie與家人分享她對大自然的關愛 – 女兒Olivia為創意總監；女兒Alex為銷售副總裁；兒子Philippe為媒體創作總監；丈夫Olivier為主席。<br><br><i>相片中央為Sylvie Chantecaille，其家人（由左起）：Ren Grady， Olivia Chantecaille及兩 人的女兒Delphina；Alex，Olivier及 Philippe Chantecaille。
+	Chantecaille Logo + Icons	abch06		(Chantecaille Logo)	(Chantecaille Logo)
+	Title	abch07		WILD ABOUT NATURE	關愛大自然
+	Paragraph 5	abch08		We believe in the healing powers of flowers and plants, and build our formulas on pure ingredients and smart science. We are proud to give back to charities that protect wild species and spaces. 	我們深信天然花妍草本的天然療效， 透過嶄新科技及高效成分， 成就了品牌的核心護膚理念。 我們致力支持多個保育團體， 提升大眾對全球瀕臨物種及環境議題的<br>關注。
+Luminescent-Eye-Shades	Title	LuES01		LUMINESCENT EYE SHADES	閃爍光采眼影
+	Sub Heading	LuES02		AFRICA'S VANISHING SPECIES	非洲瀕危動物
+	Opening Paragraph	LuES03		This pearly gel-powder formula washes the eye with beautiful, dimensional shimmer. With this collection, Chantecaille gives back to 6 charities saving Africa's endangered wild animals.	眼影的啫喱粉末配方加入純珍珠末粒子， 為眼簾添上炫彩色調。 眼影系列的部分收益將回饋六間保育團體， 以支持它們在非洲保育野生動物的工作。
+	Product Title	LuES04		CHEETAH	獵豹
+	Partner	LuES05		CHEETAH CONSERVATION FUND	CHEETAH CONSERVATION FUND <br> (獵豹保護基金會)
+	Description	LuES06		Warm champagne	Warm champagne (香檳)
+	Product Title	LuES07		ELEPHANT	大象
+	Partner	LuES08		SPACE FOR GIANTS	SPACE FOR GIANTS<br> (巨獸空間)
+	Description	LuES09		Shimmering grey/taupe	Shimmering grey/taupe (灰褐)
+	Product Title	LuES10		GIRAFFE	長頸鹿
+	Partner	LuES11		GIRAFFE CONSERVATION FOUNDATION	GIRAFFE CONSERVATION FOUNDATION<br> (長頸鹿保育基金會)
+	Description	LuES12		Burnished brown	Burnished brown (棕啡)
+	Product Title	LuES13		RHINOCEROS	犀牛
+	Partner	LuES14		SHELDRICK WILDLIFE TRUST	SHELDRICK WILDLIFE TRUST<br> (大衛謝德里克野生動物信託機構)
+	Description	LuES15		Sophisticated olive	Sophisticated olive (橄欖綠)
+	Product Title	LuES16		LION	獅子
+	Partner	LuES17		LION GUARDIANS	LION GUARDIANS<br> (獅子守護者組織)
+	Description	LuES18		Golden copper	Golden copper (古銅金)
+	Product Title	LuES19		PANGOLIN	穿山甲
+	Partner	LuES20		TIKKI HYWOOD FOUNDATION	TIKKI HYWOOD FOUNDATION<br> (狄基海伍德信託基金會)
+	Description	LuES21		Dusty violet	Dusty violet (淡紫)
+		LuES22		Learn more	探索更多
+		LuES23		Explore the collection	探索彩妝系列
+		LuES24		Loading...	請稍候
+					中文
+	Opening Paragraph	perm01		We need access to a few permissions before we can record footage	請同意開始記錄影像
+	Button	perm02		Request Microphone	錄音
+	Button	perm03		Request Storage	儲存
+	Button	perm04		Request Storage Read	重看儲存記錄
