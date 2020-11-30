@@ -1,0 +1,5980 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 9
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 0
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 11
+  m_GIWorkflowMode: 0
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_TemporalCoherenceThreshold: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 1
+    m_EnableRealtimeLightmaps: 1
+  m_LightmapEditorSettings:
+    serializedVersion: 10
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_FinalGather: 0
+    m_FinalGatherFiltering: 1
+    m_FinalGatherRayCount: 256
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 1
+    m_BakeBackend: 0
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 500
+    m_PVRBounces: 2
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVRFilteringMode: 0
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 5
+    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ShowResolutionOverlay: 1
+  m_LightingDataAsset: {fileID: 0}
+  m_UseShadowmask: 0
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &4234434
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1418335135322978, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4234435}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4234435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4797791103128432, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 4234434}
+  m_LocalRotation: {x: 6.7785486e-17, y: 0.15860482, z: 2.8045923e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1402231294}
+  m_Father: {fileID: 1608416819}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &18791908
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1911409983569642, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 18791909}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &18791909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4143930402954556, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 18791908}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1747671679}
+  m_Father: {fileID: 713459811}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &38483884
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1410207498872572, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 38483885}
+  m_Layer: 0
+  m_Name: Giraffe_r_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &38483885
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4802221797910478, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 38483884}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1688828671}
+  m_Father: {fileID: 464664540}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &40680654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1933440574397428, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 40680655}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &40680655
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4542655497062892, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 40680654}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 46874623}
+  m_Father: {fileID: 2096154506}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &46874622
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1705125901898528, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 46874623}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_05SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &46874623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4987259777894764, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 46874622}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1934725848}
+  m_Father: {fileID: 40680655}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &63448554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1992938280078966, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 63448555}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &63448555
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4794138099790444, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 63448554}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2096154506}
+  m_Father: {fileID: 1487392419}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &77298523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1155659905623598, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 77298524}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &77298524
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4404149152549450, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 77298523}
+  m_LocalRotation: {x: 0.513014, y: 0.513014, z: -0.48663807, w: 0.48663807}
+  m_LocalPosition: {x: -0, y: 0.050853476, z: 0.31156826}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1753702406}
+  m_Father: {fileID: 752246920}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &78398738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1855090351329702, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 78398739}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &78398739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4680934651023224, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 78398738}
+  m_LocalRotation: {x: -9.598311e-17, y: 0.7071068, z: 9.598311e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 618093153}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &82093569
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1575917411588680, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 82093570}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &82093570
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4944826800154948, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 82093569}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: -0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 590092914}
+  m_Father: {fileID: 150367067}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &117027843
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1497076227095676, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 117027844}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &117027844
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4507730824653760, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 117027843}
+  m_LocalRotation: {x: -9.46415e-17, y: 0.30684873, z: -4.0925837e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 618093153}
+  m_Father: {fileID: 1688828671}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &123297131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1522475418654214, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 123297132}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &123297132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4947832842120268, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 123297131}
+  m_LocalRotation: {x: 5.994472e-17, y: 0.30684873, z: 2.3575415e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1165805404}
+  m_Father: {fileID: 1634550269}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &132297516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1298492579859736, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 132297517}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &132297517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4241091804938466, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 132297516}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.08178311, z: -0.11670377}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 913277021}
+  m_Father: {fileID: 1430230512}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &150367066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1562064809136160, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 150367067}
+  m_Layer: 0
+  m_Name: Giraffe_ROOTSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &150367067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4023687097648642, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 150367066}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 2.1805568, z: -0.93150437}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 82093570}
+  - {fileID: 1832825685}
+  - {fileID: 1712193794}
+  - {fileID: 1160172547}
+  m_Father: {fileID: 906633755}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &164289158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1112513070643224, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 164289159}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &164289159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4942439010112482, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 164289158}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32681316, y: 0.002125358, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1532293475}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &168792233
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1377932886117412, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 168792234}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &168792234
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4186055857570198, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 168792233}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: -0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 904803584}
+  m_Father: {fileID: 1430230512}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &173123926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1209995801486948, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 173123927}
+  m_Layer: 0
+  m_Name: Giraffe_l_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &173123927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4238543700520828, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 173123926}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: -0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1634550269}
+  m_Father: {fileID: 699720025}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &199219036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1783228123163456, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 199219037}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &199219037
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4987584024699494, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 199219036}
+  m_LocalRotation: {x: -0.000000052581722, y: 0.7071066, z: 0.000000052581694, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: -0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 617391320}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &200944444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1895006022321302, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 200944445}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &200944445
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4491196974681980, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 200944444}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1076280544}
+  m_Father: {fileID: 1581869007}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &209729494
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1117685352830190, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 209729495}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &209729495
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4435213363907988, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 209729494}
+  m_LocalRotation: {x: 7.850463e-17, y: -0.7071068, z: 7.850463e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.20845298, y: 0, z: -0.2973279}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1920382764}
+  m_Father: {fileID: 1698768425}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &233396823
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1642239771715206, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 233396824}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &233396824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4172560583851878, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 233396823}
+  m_LocalRotation: {x: -2.94959e-10, y: 0.018902559, z: -0.00000001869488, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1061330468}
+  m_Father: {fileID: 1747671679}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &250478995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1055224408470974, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 250478996}
+  m_Layer: 0
+  m_Name: Giraffe_Head_JawSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &250478996
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4058091573976500, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 250478995}
+  m_LocalRotation: {x: -0.022245549, y: -0.022245549, z: 0.7067568, w: 0.7067568}
+  m_LocalPosition: {x: 0.12008333, y: 0, z: 0.29067868}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1934725848}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &263000573
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6756303582ede41f2a7099d3c32951b9, type: 2}
+  m_RootGameObject: {fileID: 1729684124}
+  m_IsPrefabAsset: 0
+--- !u!1 &279888974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1097532683767864, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 279888975}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &279888975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4870741708648814, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 279888974}
+  m_LocalRotation: {x: 7.850463e-17, y: -0.7071068, z: 7.850463e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.20845298, y: 0, z: -0.2973279}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1445875757}
+  m_Father: {fileID: 1511361427}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &285781190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1476859427277596, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 285781191}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &285781191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4216163715831526, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 285781190}
+  m_LocalRotation: {x: -5.639022e-16, y: 0.7071068, z: 5.639022e-16, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1936685344}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &291807937
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1357949316438002, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 291807938}
+  - component: {fileID: 291807939}
+  m_Layer: 0
+  m_Name: LP_Msh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &291807938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4020467703570044, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 291807937}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 418720054}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &291807939
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 137831253197292176, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 291807937}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: eeac802eaeaa8dd4f81da7bc5d677a45, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 890943186ad236e498941e4a9dfec40f, type: 3}
+  m_Bones:
+  - {fileID: 1284177822}
+  - {fileID: 430228606}
+  - {fileID: 279888975}
+  - {fileID: 1445875757}
+  - {fileID: 1326476628}
+  - {fileID: 1425868359}
+  - {fileID: 1808117872}
+  - {fileID: 1186722719}
+  - {fileID: 1430230512}
+  - {fileID: 648670906}
+  - {fileID: 1352050211}
+  - {fileID: 1833691719}
+  - {fileID: 528539226}
+  - {fileID: 1511361427}
+  - {fileID: 132297517}
+  - {fileID: 913277021}
+  - {fileID: 1532293475}
+  - {fileID: 164289159}
+  - {fileID: 1626055959}
+  - {fileID: 752697132}
+  - {fileID: 571086450}
+  - {fileID: 1155540504}
+  - {fileID: 1596988413}
+  - {fileID: 1836733576}
+  - {fileID: 168792234}
+  - {fileID: 904803584}
+  - {fileID: 724925540}
+  - {fileID: 604004924}
+  - {fileID: 1478707133}
+  - {fileID: 2085539517}
+  - {fileID: 1848077192}
+  - {fileID: 233396824}
+  - {fileID: 1061330468}
+  - {fileID: 713459811}
+  - {fileID: 18791909}
+  - {fileID: 1747671679}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 1430230512}
+  m_AABB:
+    m_Center: {x: 0.0016478747, y: 0.12877095, z: 0.7486515}
+    m_Extent: {x: 0.46408206, y: 2.320281, z: 2.4385574}
+  m_DirtyAABB: 0
+--- !u!1 &347269066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1885031123515844, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 347269067}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &347269067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4816227041878676, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 347269066}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2134908934}
+  m_Father: {fileID: 1227653621}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &378485251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1512661151257872, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 378485252}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &378485252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4759375845401404, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 378485251}
+  m_LocalRotation: {x: -9.598311e-17, y: 0.7071068, z: 9.598311e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 541771398}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &386366388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1736867115852638, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 386366389}
+  m_Layer: 0
+  m_Name: Giraffe_l_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &386366389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4764494731975928, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 386366388}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: -0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 386371106}
+  m_Father: {fileID: 464664540}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &386371105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1118962332751834, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 386371106}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &386371106
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4685378025902882, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 386371105}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: -0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 973708214}
+  m_Father: {fileID: 386366389}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &393793585
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1810408229434928, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 393793586}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &393793586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4671613088019778, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 393793585}
+  m_LocalRotation: {x: 6.7785486e-17, y: 0.15860482, z: 2.8045923e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 617391320}
+  m_Father: {fileID: 419737893}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &394084005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1574262185632778, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 394084006}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_05SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &394084006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4453103766018230, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 394084005}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1613667209}
+  m_Father: {fileID: 1386866592}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &418720052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1665832324693312, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 418720054}
+  - component: {fileID: 418720053}
+  m_Layer: 0
+  m_Name: giraffe_sv_rm_LP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!95 &418720053
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 95948036198746896, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 418720052}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 890943186ad236e498941e4a9dfec40f, type: 3}
+  m_Controller: {fileID: 9100000, guid: 5bbe04c35e6a0421aba9546ba4fe82c0, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!4 &418720054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 418720052}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.75, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 291807938}
+  - {fileID: 1441344848}
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &419737892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1015313701286662, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 419737893}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &419737893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4382798642884752, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 419737892}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 393793586}
+  m_Father: {fileID: 1821700208}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &426537713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 426537715}
+  - component: {fileID: 426537714}
+  m_Layer: 0
+  m_Name: Directional Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &426537714
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 426537713}
+  m_Enabled: 1
+  serializedVersion: 8
+  m_Type: 1
+  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &426537715
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 426537713}
+  m_LocalRotation: {x: 0.9010819, y: -0.093230985, z: 0.24144411, w: 0.3479429}
+  m_LocalPosition: {x: -2.89, y: 4.23, z: 2.87}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 137.773, y: -30, z: 0}
+--- !u!1 &430228605
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1469088785516098, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 430228606}
+  m_Layer: 0
+  m_Name: Giraffe_Head_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &430228606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4680181094120008, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 430228605}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.25473097, y: 0, z: 0.17807885}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1186722719}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &464664539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1361251846696818, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 464664540}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &464664540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4629704825539320, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 464664539}
+  m_LocalRotation: {x: 2.8305495e-17, y: -0.02129895, z: -5.198652e-17, w: 0.99977314}
+  m_LocalPosition: {x: -0.22159421, y: 0, z: -0.061235502}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 386366389}
+  - {fileID: 1227653621}
+  - {fileID: 38483885}
+  m_Father: {fileID: 1838203692}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &483490271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1090627478324184, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 483490272}
+  m_Layer: 0
+  m_Name: Giraffe_Head_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &483490272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4765568871293458, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 483490271}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.25473097, y: 0, z: 0.17807885}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2014474599}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &494455246
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -3.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 23e5139d56a874b07ac364da0a298d58, type: 2}
+  m_RootGameObject: {fileID: 625934086}
+  m_IsPrefabAsset: 0
+--- !u!1 &528539225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1046877918695738, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 528539226}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &528539226
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4884785418280870, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 528539225}
+  m_LocalRotation: {x: 3.0785317e-17, y: 0.003215562, z: -1.08259605e-16, w: 0.9999949}
+  m_LocalPosition: {x: -0.22299087, y: 0, z: -0.055872396}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1511361427}
+  m_Father: {fileID: 1833691719}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &534801168
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1454998119164870, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 534801169}
+  m_Layer: 0
+  m_Name: Giraffe_ROOTSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &534801169
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4809563398392494, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 534801168}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 2.1805568, z: -0.93150437}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1581869007}
+  - {fileID: 1821700208}
+  - {fileID: 1623054844}
+  - {fileID: 1188338895}
+  m_Father: {fileID: 1784020088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &541771397
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1233545113734772, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 541771398}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &541771398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4469326411942358, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 541771397}
+  m_LocalRotation: {x: -8.918266e-18, y: -0.039620742, z: 2.1882581e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 378485252}
+  m_Father: {fileID: 1945635456}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &571086449
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1706095576606660, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 571086450}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &571086450
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4642621601129092, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 571086449}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: -0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1155540504}
+  m_Father: {fileID: 1735086461}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &573314352
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1641276751309794, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 573314353}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &573314353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4921628286124586, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 573314352}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: 0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1608416819}
+  m_Father: {fileID: 752246920}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &590092913
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1191618894928838, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 590092914}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &590092914
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4507505263683904, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 590092913}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 990947925}
+  m_Father: {fileID: 82093570}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &591384479
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1748553000263840, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 591384480}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_05SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &591384480
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4812425272741852, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 591384479}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2014474599}
+  m_Father: {fileID: 884430247}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &593264231
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1033103135487934, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 593264232}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &593264232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4532950888299440, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 593264231}
+  m_LocalRotation: {x: -2.94959e-10, y: 0.018902559, z: -0.00000001869488, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1491312020}
+  m_Father: {fileID: 1063625753}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &604004923
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1758603481082698, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 604004924}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &604004924
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4355012027166496, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 604004923}
+  m_LocalRotation: {x: -8.918266e-18, y: -0.039620742, z: 2.1882581e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1478707133}
+  m_Father: {fileID: 1848077192}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &617391319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1382637504352116, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 617391320}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &617391320
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4498147437014666, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 617391319}
+  m_LocalRotation: {x: -2.94959e-10, y: 0.018902559, z: -0.00000001869488, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 199219037}
+  m_Father: {fileID: 393793586}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &618093152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1136964078430150, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 618093153}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &618093153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4787785817184792, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 618093152}
+  m_LocalRotation: {x: -8.918266e-18, y: -0.039620742, z: 2.1882581e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 78398739}
+  m_Father: {fileID: 117027844}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &625934086
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1295450302525196, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 625934088}
+  - component: {fileID: 625934087}
+  m_Layer: 0
+  m_Name: giraffe_sv_ip_LP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!111 &625934087
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 111253978628539434, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 625934086}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400002, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  m_Animations:
+  - {fileID: 7400002, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400004, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400006, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400008, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400010, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400012, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400014, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400016, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400018, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400020, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400022, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400024, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400026, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400028, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400030, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400032, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400034, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400036, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400038, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400040, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400042, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 1
+--- !u!4 &625934088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4644484300855972, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 625934086}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.75, y: 0, z: -3.54}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1452656190}
+  - {fileID: 1874045915}
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &648670905
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1132243608657106, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 648670906}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &648670906
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4574652781673632, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 648670905}
+  m_LocalRotation: {x: 0.513014, y: 0.513014, z: -0.48663807, w: 0.48663807}
+  m_LocalPosition: {x: -0, y: 0.050853476, z: 0.31156826}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1352050211}
+  m_Father: {fileID: 1430230512}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &682584522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1139557837046308, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 682584523}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &682584523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4430450310438388, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 682584522}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.26305243, y: -0.01912822, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2090421579}
+  m_Father: {fileID: 2051740951}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &694882315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1351090787675670, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 694882316}
+  m_Layer: 0
+  m_Name: Giraffe_r_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &694882316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4655862907154536, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 694882315}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1560549578}
+  m_Father: {fileID: 699720025}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &699720024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1907344559102024, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 699720025}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &699720025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4363295220274686, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 699720024}
+  m_LocalRotation: {x: 2.8305495e-17, y: -0.02129895, z: -5.198652e-17, w: 0.99977314}
+  m_LocalPosition: {x: -0.22159421, y: 0, z: -0.061235502}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 173123927}
+  - {fileID: 1487392419}
+  - {fileID: 694882316}
+  m_Father: {fileID: 1682658049}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &703966460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1659904319692170, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 703966461}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &703966461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4875354491336652, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 703966460}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1063625753}
+  m_Father: {fileID: 1832825685}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &713459810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1279039699057278, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 713459811}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &713459811
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4352612840820518, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 713459810}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: 0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 18791909}
+  m_Father: {fileID: 1430230512}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &717573197
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1789200328962800, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 717573198}
+  m_Layer: 0
+  m_Name: Giraffe_Head_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &717573198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4834022636425392, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 717573197}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.25473097, y: 0, z: 0.17807885}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1934725848}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &724925539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1848849327526610, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 724925540}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &724925540
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4893183181486388, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 724925539}
+  m_LocalRotation: {x: 6.778547e-17, y: 0.15860485, z: 2.804592e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1596988413}
+  m_Father: {fileID: 904803584}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &752246919
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1518316430691380, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 752246920}
+  m_Layer: 0
+  m_Name: Giraffe_ROOTSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &752246920
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4257892139390596, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 752246919}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 2.1805568, z: -0.93150437}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1574696137}
+  - {fileID: 573314353}
+  - {fileID: 77298524}
+  - {fileID: 2051740951}
+  m_Father: {fileID: 1874045915}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &752697131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1542205396727690, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 752697132}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &752697132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4389955080126908, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 752697131}
+  m_LocalRotation: {x: -5.639022e-16, y: 0.7071068, z: 5.639022e-16, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1626055959}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &767494966
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1767763159648352, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 767494967}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &767494967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4155203462649816, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 767494966}
+  m_LocalRotation: {x: 0.00000005266597, y: 0.7071066, z: -0.000000052665943, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: 0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2081931241}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &768694226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1148263955164368, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 768694227}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &768694227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4087396383520044, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 768694226}
+  m_LocalRotation: {x: 0.00000005266597, y: 0.7071066, z: -0.000000052665943, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: 0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1065775893}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &779177921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1902976286587920, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 779177922}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &779177922
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4954675199728142, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 779177921}
+  m_LocalRotation: {x: -9.46415e-17, y: 0.30684873, z: -4.0925837e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1271467168}
+  m_Father: {fileID: 1560549578}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &816613834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1549165014417906, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 816613835}
+  - component: {fileID: 816613836}
+  m_Layer: 0
+  m_Name: HP_Msh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &816613835
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4875853206486664, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 816613834}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1729684126}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &816613836
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 137318392030533386, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 816613834}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: eeac802eaeaa8dd4f81da7bc5d677a45, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: 890943186ad236e498941e4a9dfec40f, type: 3}
+  m_Bones:
+  - {fileID: 1472434155}
+  - {fileID: 483490272}
+  - {fileID: 1227653621}
+  - {fileID: 347269067}
+  - {fileID: 2134908934}
+  - {fileID: 884430247}
+  - {fileID: 591384480}
+  - {fileID: 2014474599}
+  - {fileID: 534801169}
+  - {fileID: 1623054844}
+  - {fileID: 1790650265}
+  - {fileID: 1179467327}
+  - {fileID: 1838203692}
+  - {fileID: 464664540}
+  - {fileID: 1188338895}
+  - {fileID: 1719180960}
+  - {fileID: 1388207268}
+  - {fileID: 1310823294}
+  - {fileID: 965130233}
+  - {fileID: 1194915603}
+  - {fileID: 386371106}
+  - {fileID: 973708214}
+  - {fileID: 2081931241}
+  - {fileID: 767494967}
+  - {fileID: 1581869007}
+  - {fileID: 200944445}
+  - {fileID: 1076280544}
+  - {fileID: 618093153}
+  - {fileID: 78398739}
+  - {fileID: 1688828671}
+  - {fileID: 117027844}
+  - {fileID: 617391320}
+  - {fileID: 199219037}
+  - {fileID: 1821700208}
+  - {fileID: 419737893}
+  - {fileID: 393793586}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 534801169}
+  m_AABB:
+    m_Center: {x: -0.000000074505806, y: 0.13452148, z: 0.7419263}
+    m_Extent: {x: 0.4654169, y: 2.328065, z: 2.4356031}
+  m_DirtyAABB: 0
+--- !u!1 &844679290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1720029714402598, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 844679291}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &844679291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4763175058302856, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 844679290}
+  m_LocalRotation: {x: -9.598311e-17, y: 0.7071068, z: 9.598311e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1271467168}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &884430246
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1378173156022858, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 884430247}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &884430247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4644737789662650, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 884430246}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 591384480}
+  m_Father: {fileID: 2134908934}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &887576502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1853108716766736, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 887576503}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &887576503
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4413606060051602, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 887576502}
+  m_LocalRotation: {x: 5.994472e-17, y: 0.30684873, z: 2.3575415e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1936685344}
+  m_Father: {fileID: 961865852}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &904803583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1822068272796934, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 904803584}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &904803584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4220729510054230, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 904803583}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 724925540}
+  m_Father: {fileID: 168792234}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &906633754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1596155823406946, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 906633755}
+  m_Layer: 0
+  m_Name: RootMotion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &906633755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4112226392032740, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 906633754}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0014003031, y: -1.6347838e-13, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 150367067}
+  m_Father: {fileID: 1424622997}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &913277020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1287379432196540, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 913277021}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &913277021
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4383974075076022, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 913277020}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.26305243, y: -0.01912822, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1532293475}
+  m_Father: {fileID: 132297517}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &961865851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1173576119830186, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 961865852}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &961865852
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4638913342407944, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 961865851}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: -0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 887576503}
+  m_Father: {fileID: 1844317452}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &962600958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1151966864011124, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 962600959}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &962600959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4417103560172512, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 962600958}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2066153536}
+  m_Father: {fileID: 1574696137}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &963291220
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1221686807376352, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 963291221}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &963291221
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4636542648301214, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 963291220}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32681316, y: 0.002125358, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2090421579}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &965130232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1251758229410118, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 965130233}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &965130233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4433388182939276, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 965130232}
+  m_LocalRotation: {x: -3.548567e-17, y: -0.039620716, z: 8.800298e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1194915603}
+  m_Father: {fileID: 973708214}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &968366612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1621053469932488, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 968366613}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &968366613
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4113385234491344, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 968366612}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32256243, y: -0.0063760737, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1260881362}
+  m_Father: {fileID: 1105499953}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &973708213
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1078928192784704, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 973708214}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &973708214
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4202657978333416, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 973708213}
+  m_LocalRotation: {x: 5.994472e-17, y: 0.30684873, z: 2.3575415e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 965130233}
+  m_Father: {fileID: 386371106}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &983215530
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -3.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f3b0f9f0b06134e939ef090f027ad289, type: 2}
+  m_RootGameObject: {fileID: 1424622995}
+  m_IsPrefabAsset: 0
+--- !u!1 &990947924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1800032943771080, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 990947925}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &990947925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4760543047819936, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 990947924}
+  m_LocalRotation: {x: 6.778547e-17, y: 0.15860485, z: 2.804592e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1065775893}
+  m_Father: {fileID: 590092914}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1049179573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1703044851967386, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1049179574}
+  m_Layer: 0
+  m_Name: Giraffe_r_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1049179574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4768918668103620, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1049179573}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1362711220}
+  m_Father: {fileID: 1698768425}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1049786414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1206343145085542, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1049786415}
+  m_Layer: 0
+  m_Name: Giraffe_r_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1049786415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4569565201233426, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1049786414}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2085539517}
+  m_Father: {fileID: 1511361427}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1061330467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1749286495228570, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1061330468}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1061330468
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4689379416936114, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1061330467}
+  m_LocalRotation: {x: -0.000000052581722, y: 0.7071066, z: 0.000000052581694, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: -0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 233396824}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1061852084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1742527744677966, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1061852085}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1061852085
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4847111484053758, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1061852084}
+  m_LocalRotation: {x: -5.639022e-16, y: 0.7071068, z: 5.639022e-16, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1165805404}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1063625752
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1523711194252540, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1063625753}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1063625753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4508779808966220, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1063625752}
+  m_LocalRotation: {x: 6.7785486e-17, y: 0.15860482, z: 2.8045923e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 593264232}
+  m_Father: {fileID: 703966461}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1065775892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1100631393674074, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1065775893}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1065775893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4171090019389194, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1065775892}
+  m_LocalRotation: {x: 2.9529806e-10, y: 0.018902536, z: 0.000000018716342, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 768694227}
+  m_Father: {fileID: 990947925}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1076280543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1478167645576074, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1076280544}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1076280544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4088210485983946, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1076280543}
+  m_LocalRotation: {x: 6.778547e-17, y: 0.15860485, z: 2.804592e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2081931241}
+  m_Father: {fileID: 200944445}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1105499952
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1194916100821070, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1105499953}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1105499953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4104007506747156, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1105499952}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.26305243, y: -0.01912822, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 968366613}
+  m_Father: {fileID: 1160172547}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1140313862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1221685183535604, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1140313863}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1140313863
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4649411007192128, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1140313862}
+  m_LocalRotation: {x: -0.000000052581722, y: 0.7071066, z: 0.000000052581694, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: -0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1402231294}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1155540503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1883971612940622, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1155540504}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1155540504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4310610086606062, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1155540503}
+  m_LocalRotation: {x: 5.994472e-17, y: 0.30684873, z: 2.3575415e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1626055959}
+  m_Father: {fileID: 571086450}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1160172546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1128055496382608, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1160172547}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1160172547
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4913989736890182, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1160172546}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.08178311, z: -0.11670377}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1105499953}
+  m_Father: {fileID: 150367067}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1165805403
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1959179580202044, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1165805404}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1165805404
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4243558319353722, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1165805403}
+  m_LocalRotation: {x: -3.548567e-17, y: -0.039620716, z: 8.800298e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1061852085}
+  m_Father: {fileID: 123297132}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1179467326
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1656557716261384, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1179467327}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1179467327
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4358124883857014, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1179467326}
+  m_LocalRotation: {x: 3.0712412e-17, y: 0.0011972238, z: -8.044273e-17, w: 0.9999993}
+  m_LocalPosition: {x: -0.2249372, y: 0, z: -0.05509932}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1838203692}
+  m_Father: {fileID: 1790650265}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1186722718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1423818684304528, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1186722719}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1186722719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4262331795348092, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1186722718}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1284177822}
+  - {fileID: 430228606}
+  m_Father: {fileID: 1808117872}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1188338894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1809007100150888, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1188338895}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1188338895
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4294851242007566, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1188338894}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.08178311, z: -0.11670377}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1719180960}
+  m_Father: {fileID: 534801169}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1194915602
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1201250471810184, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1194915603}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1194915603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4451840192273886, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1194915602}
+  m_LocalRotation: {x: -5.639022e-16, y: 0.7071068, z: 5.639022e-16, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 965130233}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1208066575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1776508506330820, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1208066576}
+  m_Layer: 0
+  m_Name: Giraffe_Head_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1208066576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4343753461635758, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1208066575}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0.25473097, y: 0, z: 0.17807885}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1613667209}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1227653620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1821237174734096, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1227653621}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1227653621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4551660440827176, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1227653620}
+  m_LocalRotation: {x: 7.850463e-17, y: -0.7071068, z: 7.850463e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.20845298, y: 0, z: -0.2973279}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 347269067}
+  m_Father: {fileID: 464664540}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1260881361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1896947829841362, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1260881362}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1260881362
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4527307749682010, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1260881361}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32681316, y: 0.002125358, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 968366613}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1271467167
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1986061691048204, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1271467168}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1271467168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4149501231220960, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1271467167}
+  m_LocalRotation: {x: -8.918266e-18, y: -0.039620742, z: 2.1882581e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 844679291}
+  m_Father: {fileID: 779177922}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1284177821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1586506996338986, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1284177822}
+  m_Layer: 0
+  m_Name: Giraffe_Head_JawSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1284177822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4674040854697532, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1284177821}
+  m_LocalRotation: {x: -0.022245549, y: -0.022245549, z: 0.7067568, w: 0.7067568}
+  m_LocalPosition: {x: 0.12008333, y: 0, z: 0.29067868}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1186722719}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1310823293
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1689067416428622, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1310823294}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1310823294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4095189795255260, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1310823293}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32681316, y: 0.002125358, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1388207268}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1326476627
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1620547486075544, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1326476628}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1326476628
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4163512318406372, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1326476627}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1425868359}
+  m_Father: {fileID: 1445875757}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1352050210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1222087983449832, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1352050211}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1352050211
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4454971729911722, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1352050210}
+  m_LocalRotation: {x: 3.1432235e-17, y: -0.009491098, z: -2.4603281e-17, w: 0.999955}
+  m_LocalPosition: {x: -0.22592807, y: 0, z: -0.057999503}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1833691719}
+  m_Father: {fileID: 648670906}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1362711219
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1930762608445540, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1362711220}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1362711220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4964666405276138, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1362711219}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: 0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1945635456}
+  m_Father: {fileID: 1049179574}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1386866591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1713292386091542, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1386866592}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1386866592
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4136138980154234, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1386866591}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 394084006}
+  m_Father: {fileID: 1712362171}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1388207267
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1857072007652756, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1388207268}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1388207268
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4829676215503920, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1388207267}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32256243, y: -0.0063760737, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1310823294}
+  m_Father: {fileID: 1719180960}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1401350969
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1484800822429614, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1401350970}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1401350970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4898824822496590, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1401350969}
+  m_LocalRotation: {x: 0.00000005266597, y: 0.7071066, z: -0.000000052665943, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: 0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1462029064}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1402231293
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1691661466139114, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1402231294}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1402231294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4928168120511396, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1402231293}
+  m_LocalRotation: {x: -2.94959e-10, y: 0.018902559, z: -0.00000001869488, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1140313863}
+  m_Father: {fileID: 4234435}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1424622995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1543382553265920, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1424622997}
+  - component: {fileID: 1424622996}
+  m_Layer: 0
+  m_Name: giraffe_sv_ip_HP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!111 &1424622996
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 111198417781850960, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1424622995}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400002, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  m_Animations:
+  - {fileID: 7400002, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400004, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400006, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400008, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400010, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400012, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400014, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400016, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400018, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400020, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400022, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400024, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400026, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400028, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400030, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400032, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400034, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400036, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400038, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400040, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  - {fileID: 7400042, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 1
+--- !u!4 &1424622997
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4458539229116802, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1424622995}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -3.54}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1966496057}
+  - {fileID: 906633755}
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1425868358
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1254303652475342, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1425868359}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1425868359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4041990040144292, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1425868358}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1808117872}
+  m_Father: {fileID: 1326476628}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1430230511
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1510829716787360, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1430230512}
+  m_Layer: 0
+  m_Name: Giraffe_ROOTSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1430230512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4943104572985102, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1430230511}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 2.1805568, z: -0.93150437}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 168792234}
+  - {fileID: 713459811}
+  - {fileID: 648670906}
+  - {fileID: 132297517}
+  m_Father: {fileID: 1441344848}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1441344847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1019058563097540, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1441344848}
+  m_Layer: 0
+  m_Name: RootMotion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1441344848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4515285429522222, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1441344847}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0014003031, y: -1.6347838e-13, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1430230512}
+  m_Father: {fileID: 418720054}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1445875756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1447544741365292, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1445875757}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1445875757
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4127568698506706, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1445875756}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1326476628}
+  m_Father: {fileID: 279888975}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1452656189
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1542109752326780, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1452656190}
+  - component: {fileID: 1452656191}
+  m_Layer: 0
+  m_Name: LP_Msh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1452656190
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4445675257299108, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1452656189}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 625934088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1452656191
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 137582125203238748, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1452656189}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: eeac802eaeaa8dd4f81da7bc5d677a45, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  m_Bones:
+  - {fileID: 2073682563}
+  - {fileID: 1208066576}
+  - {fileID: 209729495}
+  - {fileID: 1920382764}
+  - {fileID: 1712362171}
+  - {fileID: 1386866592}
+  - {fileID: 394084006}
+  - {fileID: 1613667209}
+  - {fileID: 752246920}
+  - {fileID: 77298524}
+  - {fileID: 1753702406}
+  - {fileID: 1964817913}
+  - {fileID: 1796577234}
+  - {fileID: 1698768425}
+  - {fileID: 2051740951}
+  - {fileID: 682584523}
+  - {fileID: 2090421579}
+  - {fileID: 963291221}
+  - {fileID: 1936685344}
+  - {fileID: 285781191}
+  - {fileID: 961865852}
+  - {fileID: 887576503}
+  - {fileID: 1462029064}
+  - {fileID: 1401350970}
+  - {fileID: 1574696137}
+  - {fileID: 962600959}
+  - {fileID: 2066153536}
+  - {fileID: 541771398}
+  - {fileID: 378485252}
+  - {fileID: 1362711220}
+  - {fileID: 1945635456}
+  - {fileID: 1402231294}
+  - {fileID: 1140313863}
+  - {fileID: 573314353}
+  - {fileID: 1608416819}
+  - {fileID: 4234435}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 752246920}
+  m_AABB:
+    m_Center: {x: -0.04448831, y: 0.18394256, z: 1.1704098}
+    m_Extent: {x: 1.8165663, y: 2.5059881, z: 2.8603158}
+  m_DirtyAABB: 0
+--- !u!1 &1462029063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1210297557531826, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1462029064}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1462029064
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4248447703541828, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1462029063}
+  m_LocalRotation: {x: 2.9529806e-10, y: 0.018902536, z: 0.000000018716342, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1401350970}
+  m_Father: {fileID: 2066153536}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1472434154
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1558011116387412, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1472434155}
+  m_Layer: 0
+  m_Name: Giraffe_Head_JawSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1472434155
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4145654727602094, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1472434154}
+  m_LocalRotation: {x: -0.022245549, y: -0.022245549, z: 0.7067568, w: 0.7067568}
+  m_LocalPosition: {x: 0.12008333, y: 0, z: 0.29067868}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2014474599}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1478707132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1650916654821248, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1478707133}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1478707133
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4700343151906902, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1478707132}
+  m_LocalRotation: {x: -9.598311e-17, y: 0.7071068, z: 9.598311e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.8122424, y: 0, z: -0.002675936}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 604004924}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1487392418
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1988145972486826, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1487392419}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1487392419
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4368420738253286, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1487392418}
+  m_LocalRotation: {x: 7.850463e-17, y: -0.7071068, z: 7.850463e-17, w: 0.7071068}
+  m_LocalPosition: {x: -0.20845298, y: 0, z: -0.2973279}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 63448555}
+  m_Father: {fileID: 699720025}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1491312019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1072504317332564, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1491312020}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1491312020
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4012555366501974, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1491312019}
+  m_LocalRotation: {x: -0.000000052581722, y: 0.7071066, z: 0.000000052581694, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: -0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 593264232}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1511361426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1410977062502550, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1511361427}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1511361427
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4125132379170092, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1511361426}
+  m_LocalRotation: {x: 2.8305495e-17, y: -0.02129895, z: -5.198652e-17, w: 0.99977314}
+  m_LocalPosition: {x: -0.22159421, y: 0, z: -0.061235502}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1735086461}
+  - {fileID: 279888975}
+  - {fileID: 1049786415}
+  m_Father: {fileID: 528539226}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1532293474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1429373297542172, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1532293475}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1532293475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4671161032096024, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1532293474}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32256243, y: -0.0063760737, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 164289159}
+  m_Father: {fileID: 913277021}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1560549577
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1298361259488834, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1560549578}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1560549578
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4549189796511534, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1560549577}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: 0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 779177922}
+  m_Father: {fileID: 694882316}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1574696136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1527214903473874, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1574696137}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1574696137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4987034747630998, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1574696136}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: -0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 962600959}
+  m_Father: {fileID: 752246920}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1581869006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1548282856032232, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1581869007}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1581869007
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4464538039214834, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1581869006}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: -0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 200944445}
+  m_Father: {fileID: 534801169}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1596988412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1596840952699424, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1596988413}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1596988413
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4155409770304612, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1596988412}
+  m_LocalRotation: {x: 2.9529806e-10, y: 0.018902536, z: 0.000000018716342, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1836733576}
+  m_Father: {fileID: 724925540}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1608416818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1995294458141160, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1608416819}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee1SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1608416819
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4678633427470072, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1608416818}
+  m_LocalRotation: {x: -3.816422e-17, y: -0.41245705, z: 2.2790853e-16, w: 0.91097707}
+  m_LocalPosition: {x: -0.37621677, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4234435}
+  m_Father: {fileID: 573314353}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1613667208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1724763128511876, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1613667209}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1613667209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4086663329105244, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1613667208}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2073682563}
+  - {fileID: 1208066576}
+  m_Father: {fileID: 394084006}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1623054843
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1360442199344592, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1623054844}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1623054844
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4628535889817806, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1623054843}
+  m_LocalRotation: {x: 0.513014, y: 0.513014, z: -0.48663807, w: 0.48663807}
+  m_LocalPosition: {x: -0, y: 0.050853476, z: 0.31156826}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1790650265}
+  m_Father: {fileID: 534801169}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1626055958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1606146249413620, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1626055959}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1626055959
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4134731510186640, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1626055958}
+  m_LocalRotation: {x: -3.548567e-17, y: -0.039620716, z: 8.800298e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 752697132}
+  m_Father: {fileID: 1155540504}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1634550268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1261156286502506, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1634550269}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1634550269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4742866615745056, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1634550268}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: -0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 123297132}
+  m_Father: {fileID: 173123927}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1682658048
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1017166051752556, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1682658049}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1682658049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4754782104324090, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1682658048}
+  m_LocalRotation: {x: 3.0785317e-17, y: 0.003215562, z: -1.08259605e-16, w: 0.9999949}
+  m_LocalPosition: {x: -0.22299087, y: 0, z: -0.055872396}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 699720025}
+  m_Father: {fileID: 1864539349}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1688828670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1250777619640834, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1688828671}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1688828671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4497353481417672, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1688828670}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: 0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 117027844}
+  m_Father: {fileID: 38483885}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1698768424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1254031300630734, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1698768425}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1698768425
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4927398934301546, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1698768424}
+  m_LocalRotation: {x: 2.8305495e-17, y: -0.02129895, z: -5.198652e-17, w: 0.99977314}
+  m_LocalPosition: {x: -0.22159421, y: 0, z: -0.061235502}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1844317452}
+  - {fileID: 209729495}
+  - {fileID: 1049179574}
+  m_Father: {fileID: 1796577234}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1712193793
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1590647563262802, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1712193794}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1712193794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4115832413578194, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1712193793}
+  m_LocalRotation: {x: 0.513014, y: 0.513014, z: -0.48663807, w: 0.48663807}
+  m_LocalPosition: {x: -0, y: 0.050853476, z: 0.31156826}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1748931456}
+  m_Father: {fileID: 150367067}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1712362170
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1278065150254318, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1712362171}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1712362171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4858404486532970, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1712362170}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1386866592}
+  m_Father: {fileID: 1920382764}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1719180959
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1981892762564006, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1719180960}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1719180960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4573889463160408, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1719180959}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.26305243, y: -0.01912822, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1388207268}
+  m_Father: {fileID: 1188338895}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1729684124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1370725984156568, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1729684126}
+  - component: {fileID: 1729684125}
+  m_Layer: 0
+  m_Name: giraffe_sv_rm_HP
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!95 &1729684125
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 95967337864167856, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1729684124}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 890943186ad236e498941e4a9dfec40f, type: 3}
+  m_Controller: {fileID: 9100000, guid: 5bbe04c35e6a0421aba9546ba4fe82c0, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!4 &1729684126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4441001005322376, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1729684124}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 816613835}
+  - {fileID: 1784020088}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1735086460
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1289409397727424, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1735086461}
+  m_Layer: 0
+  m_Name: Giraffe_l_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1735086461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4286334968174844, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1735086460}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: -0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 571086450}
+  m_Father: {fileID: 1511361427}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1747671678
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1324655182606422, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1747671679}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1747671679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4310758160292420, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1747671678}
+  m_LocalRotation: {x: 6.7785486e-17, y: 0.15860482, z: 2.8045923e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 233396824}
+  m_Father: {fileID: 18791909}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1748931455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1638453116016660, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1748931456}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1748931456
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4507783505126452, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1748931455}
+  m_LocalRotation: {x: 3.1432235e-17, y: -0.009491098, z: -2.4603281e-17, w: 0.999955}
+  m_LocalPosition: {x: -0.22592807, y: 0, z: -0.057999503}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1864539349}
+  m_Father: {fileID: 1712193794}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1753702405
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1555123487869434, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1753702406}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1753702406
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4812635863271894, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1753702405}
+  m_LocalRotation: {x: 3.1432235e-17, y: -0.009491098, z: -2.4603281e-17, w: 0.999955}
+  m_LocalPosition: {x: -0.22592807, y: 0, z: -0.057999503}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1964817913}
+  m_Father: {fileID: 77298524}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1784020087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1655159655281782, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1784020088}
+  m_Layer: 0
+  m_Name: RootMotion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1784020088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4605887084113216, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1784020087}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0014003031, y: -1.6347838e-13, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 534801169}
+  m_Father: {fileID: 1729684126}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790650264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1245464195946206, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790650265}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1790650265
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4048410194132862, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1790650264}
+  m_LocalRotation: {x: 3.1432235e-17, y: -0.009491098, z: -2.4603281e-17, w: 0.999955}
+  m_LocalPosition: {x: -0.22592807, y: 0, z: -0.057999503}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1179467327}
+  m_Father: {fileID: 1623054844}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1796577233
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1712583246621348, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1796577234}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1796577234
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4212311166009422, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1796577233}
+  m_LocalRotation: {x: 3.0785317e-17, y: 0.003215562, z: -1.08259605e-16, w: 0.9999949}
+  m_LocalPosition: {x: -0.22299087, y: 0, z: -0.055872396}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1698768425}
+  m_Father: {fileID: 1964817913}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1808117871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1301904567109506, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1808117872}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_05SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1808117872
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4761609769719088, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1808117871}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1186722719}
+  m_Father: {fileID: 1425868359}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1821700207
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1013221296567986, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1821700208}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1821700208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4531775479175656, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1821700207}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: 0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 419737893}
+  m_Father: {fileID: 534801169}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1832825684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1240761112755246, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1832825685}
+  m_Layer: 0
+  m_Name: Giraffe_r_HindLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1832825685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4567676601613150, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1832825684}
+  m_LocalRotation: {x: -0.17286308, y: 0.17286308, z: 0.6856518, w: 0.6856518}
+  m_LocalPosition: {x: 0.3158228, y: -0.21113807, z: 0.08141875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 703966461}
+  m_Father: {fileID: 150367067}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1833691718
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1171743911536104, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1833691719}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1833691719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4172412354333530, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1833691718}
+  m_LocalRotation: {x: 3.0712412e-17, y: 0.0011972238, z: -8.044273e-17, w: 0.9999993}
+  m_LocalPosition: {x: -0.2249372, y: 0, z: -0.05509932}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 528539226}
+  m_Father: {fileID: 1352050211}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1836733575
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1552464889484296, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1836733576}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_BallSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1836733576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4659678922747344, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1836733575}
+  m_LocalRotation: {x: 0.00000005266597, y: 0.7071066, z: -0.000000052665943, w: 0.70710695}
+  m_LocalPosition: {x: -0.16951275, y: 0.002420488, z: 0.023110103}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1596988413}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1838203691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1018110692273890, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1838203692}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_04SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1838203692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4989501279061758, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 1838203691}
+  m_LocalRotation: {x: 3.0785317e-17, y: 0.003215562, z: -1.08259605e-16, w: 0.9999949}
+  m_LocalPosition: {x: -0.22299087, y: 0, z: -0.055872396}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 464664540}
+  m_Father: {fileID: 1179467327}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1844317451
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1946173857115476, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1844317452}
+  m_Layer: 0
+  m_Name: Giraffe_l_Clavicle_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1844317452
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4160983919488776, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1844317451}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: -0.20718542, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 961865852}
+  m_Father: {fileID: 1698768425}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1848077191
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1363800893475484, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1848077192}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1848077192
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4662598377071576, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 1848077191}
+  m_LocalRotation: {x: -9.46415e-17, y: 0.30684873, z: -4.0925837e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 604004924}
+  m_Father: {fileID: 2085539517}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1853465989
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154120261650452, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cc2c669b526f64e57a6ef092f469d722, type: 2}
+  m_RootGameObject: {fileID: 418720052}
+  m_IsPrefabAsset: 0
+--- !u!1 &1864539348
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1126238728721418, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1864539349}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1864539349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4281774211743602, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1864539348}
+  m_LocalRotation: {x: 3.0712412e-17, y: 0.0011972238, z: -8.044273e-17, w: 0.9999993}
+  m_LocalPosition: {x: -0.2249372, y: 0, z: -0.05509932}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1682658049}
+  m_Father: {fileID: 1748931456}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1874045914
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1821959879703288, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1874045915}
+  m_Layer: 0
+  m_Name: RootMotion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1874045915
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4154611445373654, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1874045914}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.0014003031, y: -1.6347838e-13, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 752246920}
+  m_Father: {fileID: 625934088}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1920382763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1943649774796128, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1920382764}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_02SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1920382764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4615719637276396, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1920382763}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1712362171}
+  m_Father: {fileID: 209729495}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1934725847
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1594544171413460, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1934725848}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1934725848
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4645293666796484, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1934725847}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 250478996}
+  - {fileID: 717573198}
+  m_Father: {fileID: 46874623}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1936685343
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1431342585528190, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1936685344}
+  m_Layer: 0
+  m_Name: Giraffe_l_FrontLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1936685344
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4695532072105608, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1936685343}
+  m_LocalRotation: {x: -3.548567e-17, y: -0.039620716, z: 8.800298e-16, w: 0.9992148}
+  m_LocalPosition: {x: -0.7400277, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 285781191}
+  m_Father: {fileID: 887576503}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1945635455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1953937285163972, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1945635456}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_KneeSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1945635456
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4862960816028368, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1945635455}
+  m_LocalRotation: {x: -9.46415e-17, y: 0.30684873, z: -4.0925837e-16, w: 0.9517583}
+  m_LocalPosition: {x: -0.44825897, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 541771398}
+  m_Father: {fileID: 1362711220}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1964817912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1464076622469732, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1964817913}
+  m_Layer: 0
+  m_Name: Giraffe_Spine_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1964817913
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4212190376819892, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 1964817912}
+  m_LocalRotation: {x: 3.0712412e-17, y: 0.0011972238, z: -8.044273e-17, w: 0.9999993}
+  m_LocalPosition: {x: -0.2249372, y: 0, z: -0.05509932}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1796577234}
+  m_Father: {fileID: 1753702406}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1966496056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1091294524174036, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1966496057}
+  - component: {fileID: 1966496058}
+  m_Layer: 0
+  m_Name: HP_Msh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1966496057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4504839131715784, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1966496056}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1424622997}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1966496058
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 137252825170191296, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 1966496056}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 2100000, guid: eeac802eaeaa8dd4f81da7bc5d677a45, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300002, guid: 996f3084faaef044ea43ad30133fb260, type: 3}
+  m_Bones:
+  - {fileID: 250478996}
+  - {fileID: 717573198}
+  - {fileID: 1487392419}
+  - {fileID: 63448555}
+  - {fileID: 2096154506}
+  - {fileID: 40680655}
+  - {fileID: 46874623}
+  - {fileID: 1934725848}
+  - {fileID: 150367067}
+  - {fileID: 1712193794}
+  - {fileID: 1748931456}
+  - {fileID: 1864539349}
+  - {fileID: 1682658049}
+  - {fileID: 699720025}
+  - {fileID: 1160172547}
+  - {fileID: 1105499953}
+  - {fileID: 968366613}
+  - {fileID: 1260881362}
+  - {fileID: 1165805404}
+  - {fileID: 1061852085}
+  - {fileID: 1634550269}
+  - {fileID: 123297132}
+  - {fileID: 1065775893}
+  - {fileID: 768694227}
+  - {fileID: 82093570}
+  - {fileID: 590092914}
+  - {fileID: 990947925}
+  - {fileID: 1271467168}
+  - {fileID: 844679291}
+  - {fileID: 1560549578}
+  - {fileID: 779177922}
+  - {fileID: 593264232}
+  - {fileID: 1491312020}
+  - {fileID: 1832825685}
+  - {fileID: 703966461}
+  - {fileID: 1063625753}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 150367067}
+  m_AABB:
+    m_Center: {x: -0.046811104, y: 0.1806711, z: 1.1683812}
+    m_Extent: {x: 1.8201702, y: 2.5142546, z: 2.8620582}
+  m_DirtyAABB: 0
+--- !u!1 &2014474598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1836919698407132, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2014474599}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_TopSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2014474599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4134156185293414, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 2014474598}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1472434155}
+  - {fileID: 483490272}
+  m_Father: {fileID: 591384480}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2051740950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1219308149903542, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2051740951}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_01SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2051740951
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4319307413653302, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 2051740950}
+  m_LocalRotation: {x: -0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -0, y: 0.08178311, z: -0.11670377}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 682584523}
+  m_Father: {fileID: 752246920}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2066153535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1437822868028408, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2066153536}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_Knee2SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2066153536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4178099222826292, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 2066153535}
+  m_LocalRotation: {x: 6.778547e-17, y: 0.15860485, z: 2.804592e-16, w: 0.9873422}
+  m_LocalPosition: {x: -0.66676164, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1462029064}
+  m_Father: {fileID: 962600959}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2073682562
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1790998769487688, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2073682563}
+  m_Layer: 0
+  m_Name: Giraffe_Head_JawSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2073682563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4169933372836898, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 2073682562}
+  m_LocalRotation: {x: -0.022245549, y: -0.022245549, z: 0.7067568, w: 0.7067568}
+  m_LocalPosition: {x: 0.12008333, y: 0, z: 0.29067868}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1613667209}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2081931240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1944707914692040, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2081931241}
+  m_Layer: 0
+  m_Name: Giraffe_l_HindLeg_AnkleSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2081931241
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4823479269717734, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 2081931240}
+  m_LocalRotation: {x: 2.9529806e-10, y: 0.018902536, z: 0.000000018716342, w: 0.9998213}
+  m_LocalPosition: {x: -0.6371262, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 767494967}
+  m_Father: {fileID: 1076280544}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2085539516
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1301080944018018, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2085539517}
+  m_Layer: 0
+  m_Name: Giraffe_r_FrontLeg_HipSHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2085539517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4078878195856816, guid: cc2c669b526f64e57a6ef092f469d722,
+    type: 2}
+  m_PrefabInternal: {fileID: 1853465989}
+  m_GameObject: {fileID: 2085539516}
+  m_LocalRotation: {x: -0.34713504, y: 0.34713504, z: 0.6160335, w: 0.6160335}
+  m_LocalPosition: {x: 0.123949945, y: 0.17857647, z: 0.21416919}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1848077192}
+  m_Father: {fileID: 1049786415}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2090421578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1856953774017630, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2090421579}
+  m_Layer: 0
+  m_Name: Giraffe_Tail_01_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2090421579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4784833735782940, guid: 23e5139d56a874b07ac364da0a298d58,
+    type: 2}
+  m_PrefabInternal: {fileID: 494455246}
+  m_GameObject: {fileID: 2090421578}
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.32256243, y: -0.0063760737, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 963291221}
+  m_Father: {fileID: 682584523}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2096154505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1076485879969006, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2096154506}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2096154506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4915583150699320, guid: f3b0f9f0b06134e939ef090f027ad289,
+    type: 2}
+  m_PrefabInternal: {fileID: 983215530}
+  m_GameObject: {fileID: 2096154505}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 40680655}
+  m_Father: {fileID: 63448555}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2125052632
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2125052637}
+  - component: {fileID: 2125052636}
+  - component: {fileID: 2125052635}
+  - component: {fileID: 2125052634}
+  - component: {fileID: 2125052633}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &2125052633
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2125052632}
+  m_Enabled: 1
+--- !u!124 &2125052634
+Behaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2125052632}
+  m_Enabled: 1
+--- !u!92 &2125052635
+Behaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2125052632}
+  m_Enabled: 1
+--- !u!20 &2125052636
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2125052632}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 0
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &2125052637
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2125052632}
+  m_LocalRotation: {x: -0, y: 0.98784775, z: -0, w: 0.15542473}
+  m_LocalPosition: {x: 0, y: 1, z: 10.43}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 162.117, z: 0}
+--- !u!1 &2134908933
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 1988774226402254, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2134908934}
+  m_Layer: 0
+  m_Name: Giraffe_Neck_03SHJnt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2134908934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 4290525969408662, guid: 6756303582ede41f2a7099d3c32951b9,
+    type: 2}
+  m_PrefabInternal: {fileID: 263000573}
+  m_GameObject: {fileID: 2134908933}
+  m_LocalRotation: {x: 0, y: 0, z: 1.110223e-16, w: 1}
+  m_LocalPosition: {x: -0.2973279, y: 0, z: 0.20845298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 884430247}
+  m_Father: {fileID: 347269067}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
