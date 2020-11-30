@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 1fb97e5297c72324c9364fdc940ae0d6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bn_Calcaneus_L
+    100002: Bn_Calcaneus_R
+    100004: Bn_Carpal_L
+    100006: Bn_Carpal_R
+    100008: Bn_Ear_L_01
+    100010: Bn_Ear_L_02
+    100012: Bn_Ear_L_03
+    100014: Bn_Ear_R_01
+    100016: Bn_Ear_R_02
+    100018: Bn_Ear_R_03
+    100020: Bn_Eye_L
+    100022: Bn_Eye_R
+    100024: Bn_Ferum_L
+    100026: Bn_Ferum_R
+    100028: Bn_Foot_L
+    100030: Bn_Foot_L 1
+    100032: Bn_Foot_R
+    100034: Bn_Foot_R 1
+    100036: Bn_Head
+    100038: Bn_Humerus_L
+    100040: Bn_Humerus_R
+    100042: Bn_Jaw_01
+    100044: Bn_Jaw_02
+    100046: Bn_Neck_01
+    100048: Bn_Neck_02
+    100050: Bn_Radius_L
+    100052: Bn_Radius_R
+    100054: Bn_Shoulder_L_01
+    100056: Bn_Shoulder_R_01
+    100058: Bn_Spine1
+    100060: Bn_Spine2
+    100062: Bn_Spine3
+    100064: Bn_Tail_01
+    100066: Bn_Tail_02
+    100068: Bn_Tail_03
+    100070: Bn_Tail_04
+    100072: Bn_Tibia_L
+    100074: Bn_Tibia_R
+    100076: Bone008
+    100078: Bone008(mirrored)
+    100080: Bone009
+    100082: Bone028
+    100084: Bone029
+    100086: Bone032
+    100088: Bone033
+    100090: Bone038
+    100092: Bone039
+    100094: Bone040
+    100096: Bone041
+    100098: Bone042
+    100100: Bone043
+    100102: Ctrl_COG001
+    100104: Ctrl_Main
+    100106: Ctrl_Spine001
+    100108: Ctrl_Spine002
+    100110: Ctrl_Tail_01
+    100112: Ctrl_Tail_02
+    100114: Ctrl_Tail_03
+    100116: Ctrl_Tail_04
+    100118: Gp_Eye_L
+    100120: Gp_Eye_R
+    100122: Iris_L
+    100124: Iris_R
+    100126: Pt_spine1
+    100128: Pt_spine2
+    100130: Pt_spine3
+    100132: Pt_SpineLink001
+    100134: //RootNode
+    100136: Rhino
+    100138: Sclera_L
+    100140: Sclera_R
+    100142: SpineTop001
+    400000: Bn_Calcaneus_L
+    400002: Bn_Calcaneus_R
+    400004: Bn_Carpal_L
+    400006: Bn_Carpal_R
+    400008: Bn_Ear_L_01
+    400010: Bn_Ear_L_02
+    400012: Bn_Ear_L_03
+    400014: Bn_Ear_R_01
+    400016: Bn_Ear_R_02
+    400018: Bn_Ear_R_03
+    400020: Bn_Eye_L
+    400022: Bn_Eye_R
+    400024: Bn_Ferum_L
+    400026: Bn_Ferum_R
+    400028: Bn_Foot_L
+    400030: Bn_Foot_L 1
+    400032: Bn_Foot_R
+    400034: Bn_Foot_R 1
+    400036: Bn_Head
+    400038: Bn_Humerus_L
+    400040: Bn_Humerus_R
+    400042: Bn_Jaw_01
+    400044: Bn_Jaw_02
+    400046: Bn_Neck_01
+    400048: Bn_Neck_02
+    400050: Bn_Radius_L
+    400052: Bn_Radius_R
+    400054: Bn_Shoulder_L_01
+    400056: Bn_Shoulder_R_01
+    400058: Bn_Spine1
+    400060: Bn_Spine2
+    400062: Bn_Spine3
+    400064: Bn_Tail_01
+    400066: Bn_Tail_02
+    400068: Bn_Tail_03
+    400070: Bn_Tail_04
+    400072: Bn_Tibia_L
+    400074: Bn_Tibia_R
+    400076: Bone008
+    400078: Bone008(mirrored)
+    400080: Bone009
+    400082: Bone028
+    400084: Bone029
+    400086: Bone032
+    400088: Bone033
+    400090: Bone038
+    400092: Bone039
+    400094: Bone040
+    400096: Bone041
+    400098: Bone042
+    400100: Bone043
+    400102: Ctrl_COG001
+    400104: Ctrl_Main
+    400106: Ctrl_Spine001
+    400108: Ctrl_Spine002
+    400110: Ctrl_Tail_01
+    400112: Ctrl_Tail_02
+    400114: Ctrl_Tail_03
+    400116: Ctrl_Tail_04
+    400118: Gp_Eye_L
+    400120: Gp_Eye_R
+    400122: Iris_L
+    400124: Iris_R
+    400126: Pt_spine1
+    400128: Pt_spine2
+    400130: Pt_spine3
+    400132: Pt_SpineLink001
+    400134: Rhino
+    400136: //RootNode
+    400138: Sclera_L
+    400140: Sclera_R
+    400142: SpineTop001
+    2100000: Rhino_body
+    2100002: Rhino_Eyes
+    2100004: Rhino Sclera
+    2300000: Iris_L
+    2300002: Iris_R
+    2300004: Sclera_L
+    2300006: Sclera_R
+    3300000: Iris_L
+    3300002: Iris_R
+    3300004: Sclera_L
+    3300006: Sclera_R
+    4300000: Rhino
+    4300002: Iris_R
+    4300004: Sclera_R
+    4300006: Iris_L
+    4300008: Sclera_L
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Rhino
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
