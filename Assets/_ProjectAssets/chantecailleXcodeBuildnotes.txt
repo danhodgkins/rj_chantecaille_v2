@@ -1,0 +1,18 @@
+updated to remove windows file reference 
+Onesignal - searchpath add:
+$(inherited)
+$(PROJECT_DIR)/Libraries
+$(SRCROOT)/Libraries/OneSignal/Platforms/iOS
+$(SRCROOT)
+$(SRCROOT)/Libraries/com.unity.xr.arkit/iOS
+
+
+General Frameworks and Libraries
+AdSupport.framework
+Coredatea.framework
+libz.1.2.8.tbd
+libsqlite3.tbd
+
+OneSignal - add libiphone
+
+
